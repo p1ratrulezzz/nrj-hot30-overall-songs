@@ -6,9 +6,9 @@ from operator import itemgetter
 parser = NRJParser()
 
 storage = JsonStorage(filename = constants.JSON_FILENAME)
-#tracks = parser.parseTracks()
-#storage.mergeTracks(tracks)
-#storage.save()
+tracks = parser.parseTracks()
+storage.mergeTracks(tracks)
+storage.save()
 
 table = '|Position|Track|\n'
 table += '|---|--------|\n'
