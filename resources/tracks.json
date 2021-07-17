@@ -1,0 +1,335 @@
+{
+ "updated": "2021-07-17T18:17:02+00:00",
+ "tracks": {
+  "65880833": {
+   "artist": "MINELLI",
+   "title": "Rampampam",
+   "positions": [
+    {
+     "value": 1,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 1.0
+  },
+  "fe580c06": {
+   "artist": "ATB & TOPIC & A7S",
+   "title": "Your Love (9 PM)",
+   "positions": [
+    {
+     "value": 2,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 2.0
+  },
+  "29ef0e39": {
+   "artist": "MASKED WOLF",
+   "title": "Astronaut In The Ocean",
+   "positions": [
+    {
+     "value": 3,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 3.0
+  },
+  "eb360be1": {
+   "artist": "Nessa BARRETT & JXDN",
+   "title": "La Di Die",
+   "positions": [
+    {
+     "value": 4,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 4.0
+  },
+  "cb3d1925": {
+   "artist": "HUGEL & Stefy DE CICCO & Hugo CANTARRA & Nikol APATINI",
+   "title": "4 To The Floor",
+   "positions": [
+    {
+     "value": 5,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 5.0
+  },
+  "c0300b09": {
+   "artist": "CASSETTE - CASSETTE",
+   "title": "My Way",
+   "positions": [
+    {
+     "value": 6,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 6.0
+  },
+  "754c14bc": {
+   "artist": "IMANBEK & Sean PAUL & Sofia REYES",
+   "title": "Dancing On Dangerous",
+   "positions": [
+    {
+     "value": 7,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 7.0
+  },
+  "b2630abf": {
+   "artist": "VANOTEK & DENITIA",
+   "title": "Someone",
+   "positions": [
+    {
+     "value": 8,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 8.0
+  },
+  "a74910c1": {
+   "artist": "Alan WALKER & ISAK",
+   "title": "Sorry (Albert Vishi rmx)",
+   "positions": [
+    {
+     "value": 9,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 9.0
+  },
+  "799d0f93": {
+   "artist": "ALOK & Sofi TUKKER & INNA",
+   "title": "It Don't Matter",
+   "positions": [
+    {
+     "value": 10,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 10.0
+  },
+  "90d90ff6": {
+   "artist": "SLIDER & MAGNIT - SLIDER & MAGNIT",
+   "title": "Down Low",
+   "positions": [
+    {
+     "value": 11,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 11.0
+  },
+  "46640e95": {
+   "artist": "Travis SCOTT & HVME",
+   "title": "Goosebumps (rmx)",
+   "positions": [
+    {
+     "value": 12,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 12.0
+  },
+  "4b501b81": {
+   "artist": "GAULLIN & Julian PERRETTA - GAULLIN & PERRETTA, Julian",
+   "title": "Seven Nation Army",
+   "positions": [
+    {
+     "value": 13,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 13.0
+  },
+  "96f0099e": {
+   "artist": "CHAEL & KAII",
+   "title": "Don't Speak",
+   "positions": [
+    {
+     "value": 14,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 14.0
+  },
+  "931a09d0": {
+   "artist": "UNKLFNKL",
+   "title": "Oh My Darling",
+   "positions": [
+    {
+     "value": 15,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 15.0
+  },
+  "9b4409fd": {
+   "artist": "Ava Max",
+   "title": "My Head My Heart",
+   "positions": [
+    {
+     "value": 16,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 16.0
+  },
+  "c98f0b5f": {
+   "artist": "Thomas GOLD",
+   "title": "Pump Up The Jam",
+   "positions": [
+    {
+     "value": 17,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 17.0
+  },
+  "7f84081b": {
+   "artist": "MONOIR & ENELI",
+   "title": "3 To 1",
+   "positions": [
+    {
+     "value": 18,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 18.0
+  },
+  "27060499": {
+   "artist": "rsstr",
+   "title": "dj",
+   "positions": [
+    {
+     "value": 19,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 19.0
+  },
+  "50750745": {
+   "artist": "INNA",
+   "title": "Flashbacks",
+   "positions": [
+    {
+     "value": 20,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 20.0
+  },
+  "3a6c1333": {
+   "artist": "ALOK & Ilkay SENCAN & Tove Lo",
+   "title": "Don\u2019t Say Goodbye",
+   "positions": [
+    {
+     "value": 21,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 21.0
+  },
+  "e7170c9b": {
+   "artist": "LOST CAPITAL",
+   "title": "Gangsta Paradise",
+   "positions": [
+    {
+     "value": 22,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 22.0
+  },
+  "7e9d1021": {
+   "artist": "Edward ARTEMYEV & Rompasso",
+   "title": "Space Melody",
+   "positions": [
+    {
+     "value": 23,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 23.0
+  },
+  "6efd0f76": {
+   "artist": "Lil NAS X",
+   "title": "Montero (Call Me By Your Name)",
+   "positions": [
+    {
+     "value": 24,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 24.0
+  },
+  "6af9083d": {
+   "artist": "TESHER",
+   "title": "Jalebi Baby",
+   "positions": [
+    {
+     "value": 25,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 25.0
+  },
+  "844a1001": {
+   "artist": "Calvin HARRIS & Tom GRENNAN",
+   "title": "By Your Side",
+   "positions": [
+    {
+     "value": 26,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 26.0
+  },
+  "201d0dd0": {
+   "artist": "Alan WALKER & IMANBEK",
+   "title": "Sweet Dreams",
+   "positions": [
+    {
+     "value": 27,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 27.0
+  },
+  "3f62178b": {
+   "artist": "RITON & NIGHTCRAWLERS & MUFASA & HYPEMAN",
+   "title": "Friday (Dopamine rmx)",
+   "positions": [
+    {
+     "value": 28,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 28.0
+  },
+  "ba300afb": {
+   "artist": "Rompasso - ROMPASSO",
+   "title": "Tesla",
+   "positions": [
+    {
+     "value": 29,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 29.0
+  },
+  "d4170c05": {
+   "artist": "RAYE & RUDIMENTAL",
+   "title": "Regardless",
+   "positions": [
+    {
+     "value": 30,
+     "datetime": "2021-07-17T18:17:02+00:00"
+    }
+   ],
+   "position_avg": 30.0
+  }
+ }
+}
