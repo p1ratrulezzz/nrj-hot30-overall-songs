@@ -1,8 +1,4 @@
-#Test readme file
-
-|Position|Track|
-|---|---|
-|asf|asf|
+# NRJ Hot 30
 
 |Position|Track|
 |---|--------|
@@ -26,7 +22,7 @@
 |18|MONOIR & ENELI - 3 To 1|
 |19|rsstr - dj|
 |20|INNA - Flashbacks|
-|21|ALOK & Ilkay SENCAN & Tove Lo - Don’t Say Goodbye|
+|21|ALOK & Ilkay SENCAN & Tove Lo - Donâ€™t Say Goodbye|
 |22|LOST CAPITAL - Gangsta Paradise|
 |23|Edward ARTEMYEV & Rompasso - Space Melody|
 |24|Lil NAS X - Montero (Call Me By Your Name)|
