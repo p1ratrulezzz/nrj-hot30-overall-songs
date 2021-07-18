@@ -23,12 +23,12 @@ for trackInfo in tracks_sorted:
     # Add image
     image = ' '
     if trackInfo.get('spotify') and trackInfo['spotify'].get('image'):
-        image = '![]({url})'.format(url = trackInfo['spotify']['image'])
+        image = '<img src="{url}" width="100pt" />'.format(url = trackInfo['spotify']['image'])
 
     link = ' '
     if trackInfo.get('spotify') and trackInfo['spotify'].get('album'):
         trackId = trackInfo['spotify']['track'].split(':')[-1]
-        link = '[![]({image})]({url})'.format(url = 'https://open.spotify.com/track/' + trackId, image = SPOTIFY.ICON_URL)
+        link = '[{image}]({url})'.format(url = 'https://open.spotify.com/track/' + trackId, image = SPOTIFY.ICON_URL)
 
     table += '|{position}|{image}|{trackname}|{link}|\n'.format(
         position = int(trackInfo['position_avg']),

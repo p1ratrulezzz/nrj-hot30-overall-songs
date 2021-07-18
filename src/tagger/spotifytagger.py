@@ -28,6 +28,6 @@ class SpotifyTagger():
                 trackItem = results['tracks']['items'][0]
                 trackInfo['spotify']['track'] = trackItem['uri']
                 trackInfo['spotify']['album'] = trackItem['album']['uri']
-                trackInfo['spotify']['image'] = trackItem['album']['images'][-1]['url']
+                trackInfo['spotify']['image'] = trackItem['album']['images'][0]['url']
             else:
                 trackInfo['spotify']['track'] = ''
