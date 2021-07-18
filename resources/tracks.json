@@ -1,5 +1,5 @@
 {
- "updated": "2021-07-17T21:53:01+00:00",
+ "updated": "2021-07-18T06:36:31+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -10,7 +10,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 1.0
+   "position_avg": 1.0,
+   "spotify": {
+    "track": "spotify:track:0e3CM2Fm4cpDtxjzYkdLAr",
+    "album": "spotify:album:6OaiffsQWffovH8qqIDP8Q",
+    "image": "https://i.scdn.co/image/ab67616d000048518c5404b18e771554b03ac25d"
+   }
   },
   "fe580c06": {
    "artist": "ATB & TOPIC & A7S",
@@ -21,7 +26,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 2.0
+   "position_avg": 2.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "29ef0e39": {
    "artist": "MASKED WOLF",
@@ -32,7 +40,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 3.0
+   "position_avg": 3.0,
+   "spotify": {
+    "track": "spotify:track:3Ofmpyhv5UAQ70mENzB277",
+    "album": "spotify:album:7vus4Q8r5DS2Dl1JClxEsA",
+    "image": "https://i.scdn.co/image/ab67616d0000485184350b406522fc53c1b2a621"
+   }
   },
   "eb360be1": {
    "artist": "Nessa BARRETT & JXDN",
@@ -43,7 +56,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 4.0
+   "position_avg": 4.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "cb3d1925": {
    "artist": "HUGEL & Stefy DE CICCO & Hugo CANTARRA & Nikol APATINI",
@@ -54,7 +70,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 5.0
+   "position_avg": 5.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "c0300b09": {
    "artist": "CASSETTE - CASSETTE",
@@ -65,7 +84,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 6.0
+   "position_avg": 6.0,
+   "spotify": {
+    "track": "spotify:track:0apbp87wAygaNTpkqFBbZ6",
+    "album": "spotify:album:6NDHvXHJTWPMhUqiuwosH9",
+    "image": "https://i.scdn.co/image/ab67616d00004851ad3e41cac8ba2744f7c65298"
+   }
   },
   "754c14bc": {
    "artist": "IMANBEK & Sean PAUL & Sofia REYES",
@@ -76,7 +100,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 7.0
+   "position_avg": 7.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "b2630abf": {
    "artist": "VANOTEK & DENITIA",
@@ -87,7 +114,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 8.0
+   "position_avg": 8.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "a74910c1": {
    "artist": "Alan WALKER & ISAK",
@@ -98,7 +128,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 9.0
+   "position_avg": 9.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "799d0f93": {
    "artist": "ALOK & Sofi TUKKER & INNA",
@@ -109,7 +142,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 10.0
+   "position_avg": 10.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "90d90ff6": {
    "artist": "SLIDER & MAGNIT - SLIDER & MAGNIT",
@@ -120,7 +156,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 11.0
+   "position_avg": 11.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "46640e95": {
    "artist": "Travis SCOTT & HVME",
@@ -131,7 +170,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 12.0
+   "position_avg": 12.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "4b501b81": {
    "artist": "GAULLIN & Julian PERRETTA - GAULLIN & PERRETTA, Julian",
@@ -142,7 +184,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 13.0
+   "position_avg": 13.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "96f0099e": {
    "artist": "CHAEL & KAII",
@@ -153,7 +198,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 14.0
+   "position_avg": 14.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "931a09d0": {
    "artist": "UNKLFNKL",
@@ -164,7 +212,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 15.0
+   "position_avg": 15.0,
+   "spotify": {
+    "track": "spotify:track:7r9iy7fsHvPU2qkjhUedFC",
+    "album": "spotify:album:1j6bv1kNXDKqLvRAOiwhuv",
+    "image": "https://i.scdn.co/image/ab67616d00004851b326659fee99b65e4a55c8d2"
+   }
   },
   "9b4409fd": {
    "artist": "Ava Max",
@@ -175,7 +228,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 16.0
+   "position_avg": 16.0,
+   "spotify": {
+    "track": "spotify:track:1KixkQVDUHggZMU9dUobgm",
+    "album": "spotify:album:26c7MmQ4w8EAvVLb4jilaM",
+    "image": "https://i.scdn.co/image/ab67616d000048519a95e89d24214b94de36ccf7"
+   }
   },
   "c98f0b5f": {
    "artist": "Thomas GOLD",
@@ -186,7 +244,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 17.0
+   "position_avg": 17.0,
+   "spotify": {
+    "track": "spotify:track:3zuz9LGui8vDo0IXRjshK9",
+    "album": "spotify:album:41rjf8vBSzhiEirRbqY9Ta",
+    "image": "https://i.scdn.co/image/ab67616d000048513dc6afb0beca60f516a2ce1f"
+   }
   },
   "7f84081b": {
    "artist": "MONOIR & ENELI",
@@ -197,7 +260,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 18.0
+   "position_avg": 18.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "27060499": {
    "artist": "rsstr",
@@ -208,7 +274,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 19.0
+   "position_avg": 19.0,
+   "spotify": {
+    "track": "spotify:track:2JEQdvZ3sll54FKPmavrg9",
+    "album": "spotify:album:4ZKHyMoBnhwFRjRbtW6qHe",
+    "image": "https://i.scdn.co/image/ab67616d00004851ef7571a9ebc06774f1d93654"
+   }
   },
   "50750745": {
    "artist": "INNA",
@@ -219,7 +290,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 20.0
+   "position_avg": 20.0,
+   "spotify": {
+    "track": "spotify:track:34MPH8yqHZhPqn9NfL2J1U",
+    "album": "spotify:album:52VwcBfN5BTGrCpsX059Ji",
+    "image": "https://i.scdn.co/image/ab67616d00004851750b7abed892c0d26b439e02"
+   }
   },
   "3a6c1333": {
    "artist": "ALOK & Ilkay SENCAN & Tove Lo",
@@ -230,7 +306,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 21.0
+   "position_avg": 21.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "e7170c9b": {
    "artist": "LOST CAPITAL",
@@ -241,7 +320,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 22.0
+   "position_avg": 22.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "7e9d1021": {
    "artist": "Edward ARTEMYEV & Rompasso",
@@ -252,7 +334,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 23.0
+   "position_avg": 23.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "6efd0f76": {
    "artist": "Lil NAS X",
@@ -263,7 +348,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 24.0
+   "position_avg": 24.0,
+   "spotify": {
+    "track": "spotify:track:67BtfxlNbhBmCDR2L2l8qd",
+    "album": "spotify:album:2Hjcfw8zHN4dJDZJGOzLd6",
+    "image": "https://i.scdn.co/image/ab67616d00004851664034dd80e91b28f773598d"
+   }
   },
   "6af9083d": {
    "artist": "TESHER",
@@ -274,7 +364,12 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 25.0
+   "position_avg": 25.0,
+   "spotify": {
+    "track": "spotify:track:6GKGoi0FHzldk1ZRQoV1fv",
+    "album": "spotify:album:2k8nShpibT4psqEQV7Smqc",
+    "image": "https://i.scdn.co/image/ab67616d0000485158ad3c6d598cb14b31c334dc"
+   }
   },
   "844a1001": {
    "artist": "Calvin HARRIS & Tom GRENNAN",
@@ -285,7 +380,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 26.0
+   "position_avg": 26.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "201d0dd0": {
    "artist": "Alan WALKER & IMANBEK",
@@ -296,7 +394,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 27.0
+   "position_avg": 27.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "3f62178b": {
    "artist": "RITON & NIGHTCRAWLERS & MUFASA & HYPEMAN",
@@ -307,7 +408,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 28.0
+   "position_avg": 28.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "ba300afb": {
    "artist": "Rompasso - ROMPASSO",
@@ -318,7 +422,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 29.0
+   "position_avg": 29.0,
+   "spotify": {
+    "track": ""
+   }
   },
   "d4170c05": {
    "artist": "RAYE & RUDIMENTAL",
@@ -329,7 +436,10 @@
      "datetime": "2021-07-17T18:17:02+00:00"
     }
    ],
-   "position_avg": 30.0
+   "position_avg": 30.0,
+   "spotify": {
+    "track": ""
+   }
   }
  }
 }

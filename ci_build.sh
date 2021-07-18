@@ -23,6 +23,8 @@ git fetch origin
 git checkout -b master origin/master
 git pull origin master
 
+echo "${SPOTIFY_YML}" > spotify.yml
+
 echo "Activating venv"
 source venv/bin/activate || exit 1
 pip3 install -r requirements.txt
