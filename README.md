@@ -32,7 +32,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |21| |ALOK & Ilkay SENCAN & Tove Lo - Don’t Say Goodbye| |
 |22| |LOST CAPITAL - Gangsta Paradise| |
 |23| |Edward ARTEMYEV & Rompasso - Space Melody| |
-|24|![](https://i.scdn.co/image/ab67616d00004851664034dd80e91b28f773598d)|Lil NAS X - Montero (Call Me By Your Name)|[![](/images/spotify_icon_64.png)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd)|
+|24|![](https://i.scdn.co/image/ab67616d00004851664034dd80e91b28f773598d)|Lil NAS X - Montero (Call Me By Your Name)|[![](/images/spotify_icon_64.png listen on spotify)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd)|
 |25|![](https://i.scdn.co/image/ab67616d0000485158ad3c6d598cb14b31c334dc)|TESHER - Jalebi Baby|[![](/images/spotify_icon_64.png)](https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv)|
 |26| |Calvin HARRIS & Tom GRENNAN - By Your Side| |
 |27| |Alan WALKER & IMANBEK - Sweet Dreams| |
