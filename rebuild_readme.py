@@ -18,7 +18,7 @@ table += '|---|---|--------|---|\n'
 tracks_sorted = sorted(storage.getTracks().values(), key=itemgetter('position_avg'))
 for trackInfo in tracks_sorted:
     trackname = ''
-    trackname += str(trackInfo.get('artist')) + ' - ' + trackInfo['title']
+    trackname += str(trackInfo.get('artist_display')) + ' - ' + trackInfo['title']
 
     # Add image
     image = ' '

@@ -12,11 +12,11 @@ class SpotifyTagger():
 
             # Do not process if there is already a spotify info
             if trackInfo['spotify'].get('track') is not None:
-                pass
+                continue
 
             artist = ''
             if trackInfo.get('artist'):
-                artist = trackInfo['artist'] + ' - '
+                artist = str(trackInfo['artist']) + ' - '
 
             for tries in range(0, 2):
                 q = artist
@@ -32,11 +32,14 @@ class SpotifyTagger():
                     trackInfo['spotify']['track'] = trackItem['uri']
                     trackInfo['spotify']['album'] = trackItem['album']['uri']
                     trackInfo['spotify']['image'] = trackItem['album']['images'][0]['url']
+                    break
                 elif trackInfo.get('artist'):
+                    for char in [',', ' ']:
                         artist = str(trackInfo['artist'])
-                        lastSpacePos = artist.rfind(' ')
+                        lastSpacePos = artist.rfind(char)
                         if lastSpacePos != -1:
                             artist = artist[lastSpacePos + 1:] + ' - '
+                            break
 
             if trackInfo['spotify'].get('track') is None:
-                trackInfo['spotify']['track'] = ''
+                    trackInfo['spotify']['track'] = ''

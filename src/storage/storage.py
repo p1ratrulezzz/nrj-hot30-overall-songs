@@ -25,6 +25,7 @@ class Storage(ABC):
             else:
                 if trackInfo.get("artist"):
                     newinfo["artist"] = trackInfo["artist"]
+                    newinfo['artist_display'] = trackInfo["artist_display"]
                 newinfo['title'] = trackInfo['title']
 
             if not newinfo.get("positions"):
