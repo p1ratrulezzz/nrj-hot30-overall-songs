@@ -23,7 +23,7 @@ for trackInfo in tracks_sorted:
     # Add image
     image = ' '
     if trackInfo.get('spotify') and trackInfo['spotify'].get('image'):
-        image = '<img src="{url}" width="100pt" />'.format(url = trackInfo['spotify']['image'])
+        image = '<img src="{url}" />'.format(url = trackInfo['spotify']['image'])
 
     link = ' '
     if trackInfo.get('spotify') and trackInfo['spotify'].get('album'):
