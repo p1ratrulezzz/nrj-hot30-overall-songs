@@ -8,10 +8,10 @@ parser = NRJParser()
 tagger = SpotifyTagger(SPOTIFY.CLIENT_ID, SPOTIFY.CLIENT_SECRET)
 
 storage = JsonStorage(filename = JSON_FILENAME)
-#tracks = parser.parseTracks()
-#storage.mergeTracks(tracks)
-#tagger.processTracks(storage.getTracks())
-#storage.save()
+tracks = parser.parseTracks()
+storage.mergeTracks(tracks)
+tagger.processTracks(storage.getTracks())
+storage.save()
 
 table = '|Position||Track||\n'
 table += '|---|---|--------|---|\n'
@@ -22,11 +22,11 @@ for trackInfo in tracks_sorted:
 
     # Add image
     image = ' '
-    if trackInfo['spotify'].get('image'):
+    if trackInfo.get('spotify') and trackInfo['spotify'].get('image'):
         image = '![]({url})'.format(url = trackInfo['spotify']['image'])
 
     link = ' '
-    if trackInfo['spotify'].get('album'):
+    if trackInfo.get('spotify') and trackInfo['spotify'].get('album'):
         trackId = trackInfo['spotify']['track'].split(':')[-1]
         link = '[![]({image})]({url})'.format(url = 'https://open.spotify.com/track/' + trackId, image = SPOTIFY.ICON_URL)
 
