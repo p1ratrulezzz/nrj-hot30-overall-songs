@@ -16,7 +16,7 @@ class SpotifyTagger():
 
             artist = ''
             if trackInfo.get('artist'):
-                artist = str(trackInfo['artist']) + ' - '
+                artist = str(trackInfo['artist']) + ' '
 
             for tries in range(0, 2):
                 q = artist
@@ -38,7 +38,7 @@ class SpotifyTagger():
                         artist = str(trackInfo['artist'])
                         lastSpacePos = artist.rfind(char)
                         if lastSpacePos != -1:
-                            artist = artist[lastSpacePos + 1:] + ' - '
+                            artist = artist[lastSpacePos + 1:] + ' '
                             break
 
             if trackInfo['spotify'].get('track') is None:
