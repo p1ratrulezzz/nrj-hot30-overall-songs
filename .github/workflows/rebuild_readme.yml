@@ -30,6 +30,7 @@ jobs:
       env:
         SSH_PUBKEY: ${{ secrets.SSH_KEY_PUB  }}
         SSH_PRIVATEKEY: ${{ secrets.SSH_KEY_RSA }}
+        SPOTIFY_YML: ${{ secrets.SPOTIFY_YML }}
       run: |
         chmod +x ci_build.sh
         ./ci_build.sh

@@ -1,11 +1,11 @@
 from src.parser.parser import Parser
 from bs4 import BeautifulSoup, element
 import urllib3
-import constants
+from constants import *
 from datetime import datetime, timezone
 
 class NRJParser(Parser):
-    _playlist_url = constants.NRJ_URL
+    _playlist_url = NRJ_URL
 
     def __init__(self):
         self._http = urllib3.PoolManager()
