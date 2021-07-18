@@ -19,4 +19,4 @@ if len(intersect) != 2:
 class SPOTIFY:
     CLIENT_ID = spotify_data['client_id']
     CLIENT_SECRET = spotify_data['client_secret']
-    ICON_URL = '/images/spotify_icon.svg?raw=true "Listen on spotify"'
+    ICON_URL = '/images/spotify_icon.svg?raw=true "Listen on spotify" | width=30%'
