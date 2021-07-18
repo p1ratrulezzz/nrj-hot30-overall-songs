@@ -9,7 +9,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 
 |Position||Track||
 |---|---|--------|---|
-|1|![](https://i.scdn.co/image/ab67616d000048518c5404b18e771554b03ac25d)|MINELLI - Rampampam|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify" width="30%">](https://open.spotify.com/track/0e3CM2Fm4cpDtxjzYkdLAr)|
+|1|![](https://i.scdn.co/image/ab67616d000048518c5404b18e771554b03ac25d)|MINELLI - Rampampam|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify" width="100pt">](https://open.spotify.com/track/0e3CM2Fm4cpDtxjzYkdLAr)|
 |2| |ATB & TOPIC & A7S - Your Love (9 PM)| |
 |3|![](https://i.scdn.co/image/ab67616d0000485184350b406522fc53c1b2a621)|MASKED WOLF - Astronaut In The Ocean|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify" width="30%">](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277)|
 |4| |Nessa BARRETT & JXDN - La Di Die| |
