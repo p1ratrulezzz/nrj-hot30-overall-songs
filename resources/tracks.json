@@ -1,5 +1,5 @@
 {
- "updated": "2021-07-18T10:57:14+00:00",
+ "updated": "2021-07-18T11:11:08+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -28,7 +28,9 @@
    ],
    "position_avg": 2.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:3ZUGQQQdTteMWdPg2bvLsp",
+    "album": "spotify:album:1H9wSqKGrpJmZV1C0Ipzuw",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739bdcb4208d686660b1f1fb62"
    }
   },
   "29ef0e39": {
@@ -58,7 +60,9 @@
    ],
    "position_avg": 4.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:3RLshk3cDQOqWhSIRCVaXL",
+    "album": "spotify:album:1KBoH5xsMCXPuVsZMORvtO",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a2e4774009cc5d4a14eb899a"
    }
   },
   "cb3d1925": {
@@ -102,7 +106,9 @@
    ],
    "position_avg": 7.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:5ltpZUCgTjhv1LXMzFi1Ln",
+    "album": "spotify:album:2Neq6xwGxIMxccCha2BaYG",
+    "image": "https://i.scdn.co/image/ab67616d0000b273913e7bf93a910f67f0dc6f55"
    }
   },
   "b2630abf": {
@@ -116,7 +122,9 @@
    ],
    "position_avg": 8.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:6H4QZBVYpQEY4b0NpQKyjE",
+    "album": "spotify:album:2oBfY7jV3DRIGWvMOL3AUn",
+    "image": "https://i.scdn.co/image/ab67616d0000b273485a99b0b0116a6d0db63052"
    }
   },
   "a74910c1": {
@@ -144,7 +152,9 @@
    ],
    "position_avg": 10.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:7ltLi7CG003USSGYsSba9s",
+    "album": "spotify:album:5w5UPTvxo2vjCWnP5fbEnc",
+    "image": "https://i.scdn.co/image/ab67616d0000b27360b16fc0b0cc5948f2173511"
    }
   },
   "90d90ff6": {
@@ -158,7 +168,9 @@
    ],
    "position_avg": 11.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:4WKdmyemdBCbxcaICeFHlo",
+    "album": "spotify:album:3hJgGLbWRkNyXTxWjGCK6o",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734f11416395a91957c575c39e"
    }
   },
   "46640e95": {
@@ -186,7 +198,9 @@
    ],
    "position_avg": 13.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:4SCbD68sf3dBfaE2X8uDSP",
+    "album": "spotify:album:1BCTQcK8H8z7HcqtC93UvV",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cfc4723ecf00e5ab03d3c3c8"
    }
   },
   "96f0099e": {
@@ -200,7 +214,9 @@
    ],
    "position_avg": 14.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:2yQLFrmKEnal3zYuOxJQAi",
+    "album": "spotify:album:06v4ZlZ3BnueWaywHKjUan",
+    "image": "https://i.scdn.co/image/ab67616d0000b273702318f68c9dc5878d276ac6"
    }
   },
   "931a09d0": {
@@ -262,7 +278,9 @@
    ],
    "position_avg": 18.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:7uH80qIjm2TmQoTK1zmaGU",
+    "album": "spotify:album:2pmJuGrrRDh8y6ZSshQonV",
+    "image": "https://i.scdn.co/image/ab67616d0000b273185f22bd330b402686ed3498"
    }
   },
   "27060499": {
@@ -308,7 +326,9 @@
    ],
    "position_avg": 21.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:7sX9CMj1PljqJ9q8VqieMO",
+    "album": "spotify:album:7B2qp2lF9BsWLvYLEN841S",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b7202a02d7d555993b97b9d2"
    }
   },
   "e7170c9b": {
@@ -336,7 +356,9 @@
    ],
    "position_avg": 23.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:6mVXUc4Vit8x1vbzUk8goa",
+    "album": "spotify:album:66D14pUDLLwqhxjSYYYLvV",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e0af1e42ae3374db3efd80f3"
    }
   },
   "6efd0f76": {
@@ -382,7 +404,9 @@
    ],
    "position_avg": 26.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:0vR2rIVORmgeKiGIgNT0fV",
+    "album": "spotify:album:6Z6QdCXb3IBonAUSwLP4iB",
+    "image": "https://i.scdn.co/image/ab67616d0000b27326ab76de7cfa7b953e58caee"
    }
   },
   "201d0dd0": {
@@ -396,7 +420,9 @@
    ],
    "position_avg": 27.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:0uIwEMEjZDGrZ3NvxK3T9F",
+    "album": "spotify:album:7ihIr7mrNqtqqqSUG5Ts7I",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735ad3d2beded6316a3668dd07"
    }
   },
   "3f62178b": {
@@ -424,7 +450,9 @@
    ],
    "position_avg": 29.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:5vOP4d422dVasPiUPvWeeF",
+    "album": "spotify:album:7l9zd8w38QBVyLIEIIBNs6",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738fe0d5f9e99d00d718d00aea"
    }
   },
   "d4170c05": {
@@ -438,7 +466,9 @@
    ],
    "position_avg": 30.0,
    "spotify": {
-    "track": ""
+    "track": "spotify:track:3DTqHfTGj1c6y2gDXsTez4",
+    "album": "spotify:album:7u2byARDMi8YgqSVhKArYB",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734c9971e21d5137f503388f5f"
    }
   }
  }
