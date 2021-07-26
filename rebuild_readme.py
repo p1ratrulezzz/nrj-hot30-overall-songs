@@ -29,12 +29,20 @@ for trackInfo in tracks_sorted:
     if trackInfo.get('spotify') and trackInfo['spotify'].get('album'):
         trackId = trackInfo['spotify']['track'].split(':')[-1]
         link = '[{image}]({url})'.format(url = 'https://open.spotify.com/track/' + trackId, image = SPOTIFY.ICON_URL)
+        
+    change_icon = ''
+    _positions = trackInfo['positions']
+    if len(_positions) > 1:
+        delta = _positions[-1]['value'] - _positions[-2]['value']
+        if delta != 0:
+            change_icon = '🔻' if delta < 0 else '⬆'
 
-    table += '|{position}|{image}|{trackname}|{link}|\n'.format(
+    table += '|{position}{change_icon}|{image}|{trackname}|{link}|\n'.format(
         position = int(trackInfo['position_avg']),
         trackname = trackname,
         image = image,
-        link = link
+        link = link,
+        change_icon = change_icon
     )
 
 with open('template/readme_top.md') as readme_top_fp:
