@@ -26,7 +26,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |14🔻|<img src="https://i.scdn.co/image/ab67616d0000b273de0458528b3e9d7290448399" />|COYOT - Remember|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1ClSzO8r4AmutluvghbyVR)|
 |14🔻|<img src="https://i.scdn.co/image/ab67616d0000b27342e931b9b23256143ec17d73" />|Julian JORDAN & Teo MANDRELLI & Jordan GRACE - Shout|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1GFvbOYthzOfJu7JXk4Khi)|
 |15🔻| |Alan WALKER & ISAK - Sorry (Albert Vishi rmx)| |
-|16⬆|<img src="https://i.scdn.co/image/ab67616d0000b273cfc4723ecf00e5ab03d3c3c8" />|GAULLIN & Julian PERRETTA - GAULLIN & PERRETTA, Julian - Seven Nation Army|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP)|
+|15⬆|<img src="https://i.scdn.co/image/ab67616d0000b273cfc4723ecf00e5ab03d3c3c8" />|GAULLIN & Julian PERRETTA - GAULLIN & PERRETTA, Julian - Seven Nation Army|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP)|
 |16⬆| |Travis SCOTT & HVME - Goosebumps (rmx)| |
 |16⬆|<img src="https://i.scdn.co/image/ab67616d0000b273702318f68c9dc5878d276ac6" />|CHAEL & KAII - Don't Speak|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2yQLFrmKEnal3zYuOxJQAi)|
 |17⬆|<img src="https://i.scdn.co/image/ab67616d0000b2734f11416395a91957c575c39e" />|SLIDER & MAGNIT - SLIDER & MAGNIT - Down Low|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4WKdmyemdBCbxcaICeFHlo)|
