@@ -1,5 +1,5 @@
 {
- "updated": "2021-10-26T03:09:34+00:00",
+ "updated": "2021-10-27T03:09:24+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -717,9 +717,17 @@
     {
      "value": 15,
      "datetime": "2021-10-26T03:09:34+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2021-10-27T03:09:24+00:00"
+    },
+    {
+     "value": 15,
+     "datetime": "2021-10-27T03:09:24+00:00"
     }
    ],
-   "position_avg": 15.761904761904763,
+   "position_avg": 15.478260869565217,
    "spotify": {
     "track": "spotify:track:4SCbD68sf3dBfaE2X8uDSP",
     "album": "spotify:album:1BCTQcK8H8z7HcqtC93UvV",
