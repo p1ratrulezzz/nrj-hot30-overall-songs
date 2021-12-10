@@ -32,13 +32,15 @@ for trackInfo in tracks_sorted:
         
     change_icon = ''
     _positions = trackInfo['positions']
+    current_position = trackInfo['positions'][-1]
     if len(_positions) > 1:
         delta = _positions[-1]['value'] - _positions[-2]['value']
         if delta != 0:
             change_icon = '🔻' if delta < 0 else '⬆'
 
-    table += '|{position}{change_icon}|{image}|{trackname}|{link}|\n'.format(
+    table += '|{position}{change_icon}(now:{current_position})|{image}|{trackname}|{link}|\n'.format(
         position = int(trackInfo['position_avg']),
+        current_position = current_position,
         trackname = trackname,
         image = image,
         link = link,
