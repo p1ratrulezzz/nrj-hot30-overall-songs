@@ -38,7 +38,7 @@ for trackInfo in tracks_sorted:
         if delta != 0:
             change_icon = '🔻' if delta < 0 else '⬆'
 
-    table += '|{position}{change_icon}(now:{current_position})|{image}|{trackname}|{link}|\n'.format(
+    table += '|{position}({current_position}){change_icon}|{image}|{trackname}|{link}|\n'.format(
         position = int(trackInfo['position_avg']),
         current_position = current_position,
         trackname = trackname,
