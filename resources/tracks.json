@@ -1,5 +1,5 @@
 {
- "updated": "2022-01-28T03:09:02+00:00",
+ "updated": "2022-01-29T03:09:04+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -1617,9 +1617,13 @@
     {
      "value": 4,
      "datetime": "2021-12-25T03:10:35+00:00"
+    },
+    {
+     "value": 5,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 6.266666666666667,
+   "position_avg": 6.1875,
    "spotify": {
     "track": "spotify:track:6PQ88X9TkUIAUIZJHW2upE",
     "album": "spotify:album:01NhUvviMytvV12pmJiDZH",
@@ -1698,9 +1702,13 @@
     {
      "value": 1,
      "datetime": "2021-12-25T03:10:35+00:00"
+    },
+    {
+     "value": 4,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 5.470588235294118,
+   "position_avg": 5.388888888888889,
    "spotify": {
     "track": "spotify:track:2prnn41CblB8B4yWACDljP",
     "album": "spotify:album:2HYufzr6XUqSurRZdY0D9w",
@@ -1836,9 +1844,13 @@
     {
      "value": 22,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 24,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 17.0,
+   "position_avg": 17.4375,
    "spotify": {
     "track": "spotify:track:1GFvbOYthzOfJu7JXk4Khi",
     "album": "spotify:album:2UnzLemIIaZDBDKPfSzzRU",
@@ -2687,9 +2699,13 @@
     {
      "value": 17,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 15.0,
+   "position_avg": 14.6875,
    "spotify": {
     "track": "spotify:track:1M3DeTf5xVoEPNL8FF5vsi",
     "album": "spotify:album:4TrwWZCvhaw07kchbcba0S",
@@ -2882,9 +2898,13 @@
     {
      "value": 2,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 12.714285714285714,
+   "position_avg": 11.5,
    "spotify": {
     "track": "spotify:track:1vrCnB3KowhQawaznByX97",
     "album": "spotify:album:0R4l4zL0anxBtpvRHY32rD",
@@ -3026,9 +3046,13 @@
     {
      "value": 3,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 1,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 10.0,
+   "position_avg": 8.875,
    "spotify": {
     "track": "spotify:track:3ajgQFhKuWa4Hz6VgkThuO",
     "album": "spotify:album:21x0bCve7UJ7ZAapjt8GFz",
@@ -3063,9 +3087,13 @@
     {
      "value": 5,
      "datetime": "2021-12-25T03:10:35+00:00"
+    },
+    {
+     "value": 2,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 13.833333333333334,
+   "position_avg": 12.142857142857142,
    "spotify": {
     "track": ""
    }
@@ -3140,9 +3168,13 @@
     {
      "value": 24,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 17,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 24.5,
+   "position_avg": 23.0,
    "spotify": {
     "track": "spotify:track:6ahDxAcG3l06piGoDxvcZp",
     "album": "spotify:album:5g63k7IapS5x0tlxItnB12",
@@ -3169,9 +3201,13 @@
     {
      "value": 23,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 28,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 23.5,
+   "position_avg": 24.4,
    "spotify": {
     "track": "spotify:track:46nvQpUDsxpS08UTFOeKTA",
     "album": "spotify:album:27rVuwJ0g0eKRpnvEhQl3G",
@@ -3267,9 +3303,13 @@
     {
      "value": 10,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 16,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 16.333333333333332,
+   "position_avg": 16.25,
    "spotify": {
     "track": "spotify:track:1SOClUWhOi8vHZYMz3GluK",
     "album": "spotify:album:6MuWCR3WPjwyKhqsTKLZ3z",
@@ -3288,9 +3328,13 @@
     {
      "value": 26,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 21,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 26.5,
+   "position_avg": 24.666666666666668,
    "spotify": {
     "track": "spotify:track:0HtRoNpikkCYgaXXLr6kPz",
     "album": "spotify:album:4oz7PnEzMjVMtWkycnongy",
@@ -3309,9 +3353,13 @@
     {
      "value": 21,
      "datetime": "2022-01-15T03:12:33+00:00"
+    },
+    {
+     "value": 23,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 25.0,
+   "position_avg": 24.333333333333332,
    "spotify": {
     "track": "spotify:track:2tyhrDW4QwtCKMULSBXiZW",
     "album": "spotify:album:1Re1t8E7Lq8ZQCswrh34zg",
@@ -3334,9 +3382,13 @@
     {
      "value": 16,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 26,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 22.666666666666668,
+   "position_avg": 23.5,
    "spotify": {
     "track": "spotify:track:1I8pMiv8c8mTP0fvt0pqQs",
     "album": "spotify:album:6EqrqJTBQ6JRFJQKY19sCE",
@@ -3351,9 +3403,13 @@
     {
      "value": 27,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 22,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 27.0,
+   "position_avg": 24.5,
    "spotify": {
     "track": "spotify:track:09pzsjs7QkWPqg2mM5UHfJ",
     "album": "spotify:album:78jwsE8GSSyEcbn55zbZ8P",
@@ -3368,13 +3424,51 @@
     {
      "value": 30,
      "datetime": "2022-01-22T03:09:01+00:00"
+    },
+    {
+     "value": 27,
+     "datetime": "2022-01-29T03:09:04+00:00"
     }
    ],
-   "position_avg": 30.0,
+   "position_avg": 28.5,
    "spotify": {
     "track": "spotify:track:7tSqhjz1Oxtci5S5vFvgzL",
     "album": "spotify:album:6WSbsX1WOTRIL85NFjGVhe",
     "image": "https://i.scdn.co/image/ab67616d0000b273313c421467670a09ec470a27"
+   }
+  },
+  "42640669": {
+   "artist": "GAYLE",
+   "artist_display": "GAYLE",
+   "title": "Abcdefu",
+   "positions": [
+    {
+     "value": 29,
+     "datetime": "2022-01-29T03:09:04+00:00"
+    }
+   ],
+   "position_avg": 29.0,
+   "spotify": {
+    "track": "spotify:track:4fouWK6XVHhzl78KzQ1UjL",
+    "album": "spotify:album:6tUQPKlpR4x1gjrXTtOImI",
+    "image": "https://i.scdn.co/image/ab67616d0000b27302d82cf34fefe6736718acd1"
+   }
+  },
+  "ea2c0c6d": {
+   "artist": "Elley DUHE",
+   "artist_display": "Elley DUHE",
+   "title": "Middle Of The Night",
+   "positions": [
+    {
+     "value": 30,
+     "datetime": "2022-01-29T03:09:04+00:00"
+    }
+   ],
+   "position_avg": 30.0,
+   "spotify": {
+    "track": "spotify:track:58HvfVOeJY7lUuCqF0m3ly",
+    "album": "spotify:album:4hYYpUC8Ewb74tP23Y1lmM",
+    "image": "https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e"
    }
   }
  }
