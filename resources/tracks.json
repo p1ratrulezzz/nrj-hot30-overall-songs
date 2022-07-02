@@ -1,5 +1,5 @@
 {
- "updated": "2022-07-01T04:07:16+00:00",
+ "updated": "2022-07-02T03:58:20+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -3506,9 +3506,13 @@
     {
      "value": 21,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 23,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 10.19047619047619,
+   "position_avg": 10.772727272727273,
    "spotify": {
     "track": "spotify:track:3ajgQFhKuWa4Hz6VgkThuO",
     "album": "spotify:album:21x0bCve7UJ7ZAapjt8GFz",
@@ -3591,9 +3595,13 @@
     {
      "value": 17,
      "datetime": "2022-06-18T03:42:23+00:00"
+    },
+    {
+     "value": 18,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 7.944444444444445,
+   "position_avg": 8.473684210526315,
    "spotify": {
     "track": ""
    }
@@ -3699,9 +3707,13 @@
     {
      "value": 24,
      "datetime": "2022-06-18T03:42:23+00:00"
+    },
+    {
+     "value": 27,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 17.055555555555557,
+   "position_avg": 17.57894736842105,
    "spotify": {
     "track": "spotify:track:18asYwWugKjjsihZ0YvRxO",
     "album": "spotify:album:278z9UXJaMNDH9Bel9uAxV",
@@ -4136,9 +4148,13 @@
     {
      "value": 20,
      "datetime": "2022-06-11T03:40:26+00:00"
+    },
+    {
+     "value": 25,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 16.35,
+   "position_avg": 16.761904761904763,
    "spotify": {
     "track": "spotify:track:0HtRoNpikkCYgaXXLr6kPz",
     "album": "spotify:album:4oz7PnEzMjVMtWkycnongy",
@@ -4498,9 +4514,13 @@
     {
      "value": 3,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 6,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 8.8125,
+   "position_avg": 8.647058823529411,
    "spotify": {
     "track": "spotify:track:58HvfVOeJY7lUuCqF0m3ly",
     "album": "spotify:album:4hYYpUC8Ewb74tP23Y1lmM",
@@ -4677,9 +4697,13 @@
     {
      "value": 16,
      "datetime": "2022-06-18T03:42:23+00:00"
+    },
+    {
+     "value": 17,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 14.071428571428571,
+   "position_avg": 14.266666666666667,
    "spotify": {
     "track": "spotify:track:27yUNsQo2CPPokNw69M23X",
     "album": "spotify:album:18n1CRVP0aQYIPKZdzjhlI",
@@ -5007,9 +5031,13 @@
     {
      "value": 27,
      "datetime": "2022-06-04T03:34:41+00:00"
+    },
+    {
+     "value": 22,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 19.25,
+   "position_avg": 19.555555555555557,
    "spotify": {
     "track": "spotify:track:02MWAaffLxlfxAUY7c5dvx",
     "album": "spotify:album:0KTj6k94XZh0c6IEMfxeWV",
@@ -5241,9 +5269,13 @@
     {
      "value": 19,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 24,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 20.333333333333332,
+   "position_avg": 20.857142857142858,
    "spotify": {
     "track": ""
    }
@@ -5374,9 +5406,13 @@
     {
      "value": 6,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 5,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 20.22222222222222,
+   "position_avg": 18.7,
    "spotify": {
     "track": ""
    }
@@ -5421,9 +5457,13 @@
     {
      "value": 30,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 29,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 23.11111111111111,
+   "position_avg": 23.7,
    "spotify": {
     "track": ""
    }
@@ -5604,9 +5644,13 @@
     {
      "value": 5,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 14.0,
+   "position_avg": 12.166666666666666,
    "spotify": {
     "track": ""
    }
@@ -5681,9 +5725,13 @@
     {
      "value": 18,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 19,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 23.333333333333332,
+   "position_avg": 22.25,
    "spotify": {
     "track": ""
    }
@@ -5700,9 +5748,13 @@
     {
      "value": 22,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 25.5,
+   "position_avg": 23.666666666666668,
    "spotify": {
     "track": ""
    }
@@ -5719,9 +5771,13 @@
     {
      "value": 23,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 16,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 26.5,
+   "position_avg": 23.0,
    "spotify": {
     "track": ""
    }
@@ -5734,9 +5790,13 @@
     {
      "value": 25,
      "datetime": "2022-06-29T04:00:56+00:00"
+    },
+    {
+     "value": 21,
+     "datetime": "2022-07-02T03:58:20+00:00"
     }
    ],
-   "position_avg": 25.0,
+   "position_avg": 23.0,
    "spotify": {
     "track": ""
    }
@@ -5752,6 +5812,21 @@
     }
    ],
    "position_avg": 26.0,
+   "spotify": {
+    "track": ""
+   }
+  },
+  "2f1b0e32": {
+   "artist": "James HYPE,Miggy DELA ROSA",
+   "artist_display": "James HYPE & Miggy DELA ROSA",
+   "title": "Ferrari",
+   "positions": [
+    {
+     "value": 30,
+     "datetime": "2022-07-02T03:58:20+00:00"
+    }
+   ],
+   "position_avg": 30.0,
    "spotify": {
     "track": ""
    }
