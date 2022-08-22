@@ -24,8 +24,8 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |8(4)⬆| |SHAKIRA & Rauw ALEJANDRO - Te Felicito| |
 |9(23)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27314a5222ca8fdf13d5c050496" />|ED SHEERAN - Bad Habits|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE)|
 |9(23)⬆| |Elton JOHN & DUA LIPA - Cold Heart (PNAU rmx)| |
-|9(13)⬆| |Jaymes YOUNG - Infinity (Pretty Young rmx)| |
 |9(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273ad3e41cac8ba2744f7c65298" />|CASSETTE - CASSETTE - My Way|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0apbp87wAygaNTpkqFBbZ6)|
+|9(13)⬆| |Jaymes YOUNG - Infinity (Pretty Young rmx)| |
 |9(20)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e" />|Elley DUHE - Middle Of The Night|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly)|
 |10(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27360b16fc0b0cc5948f2173511" />|ALOK & Sofi TUKKER & INNA - It Don't Matter|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s)|
 |10(12)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273a9897f65d1ead1be10a51e3f" />|Jaymes YOUNG - Infinity|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK)|
