@@ -25,7 +25,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |9(23)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27314a5222ca8fdf13d5c050496" />|ED SHEERAN - Bad Habits|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE)|
 |9(23)⬆| |Elton JOHN & DUA LIPA - Cold Heart (PNAU rmx)| |
 |9(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273ad3e41cac8ba2744f7c65298" />|CASSETTE - CASSETTE - My Way|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0apbp87wAygaNTpkqFBbZ6)|
-|9(13)⬆| |Jaymes YOUNG - Infinity (Pretty Young rmx)| |
+|9(11)🔻| |Jaymes YOUNG - Infinity (Pretty Young rmx)| |
 |9(20)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e" />|Elley DUHE - Middle Of The Night|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly)|
 |10(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27360b16fc0b0cc5948f2173511" />|ALOK & Sofi TUKKER & INNA - It Don't Matter|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s)|
 |10(12)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273a9897f65d1ead1be10a51e3f" />|Jaymes YOUNG - Infinity|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK)|
@@ -85,13 +85,13 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |19(26)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2730c6c5033e4429aad1d60e332" />|Olivia ADDAMS - Never Say Never|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/3ILpEmptOYZqr9ZJxbfNDt)|
 |19(20)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273f9062eccd2f7244b38158af0" />|FRED AGAIN & The BLESSED MADONNA - Marea (We’ve Lost Dancing)|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR)|
 |19(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2730ec3d840cc82b3beeb0327b8" />|Los TIBURONES & FISUN - Never Let You Go|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/74QPV8nuYYW1HwtoOAhjoO)|
+|20(13)🔻| |TWOCOLORS & Pascal LETOUBLON - Break Up| |
 |20(27)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273d84d7d58bd62dbb833442211" />|Tom WALKER - Something Beautiful|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0dNc4kZNk8JrdQCmrVPBqI)|
 |20(29)🔻|<img src="https://i.scdn.co/image/ab67616d0000b27327f0e24c9d7b414e6b17f3e6" />|OTNICKA - Stronger|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/39kRrigwHt5zPjzUPquUZp)|
 |20(15)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273434fcaa1b17676f69f5abb0e" />|Tom GREGORY - Footprints|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2BpXr92IYfY1bQxPvX1dCF)|
 |20(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" />|GLASS ANIMALS - Heat Waves|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx)|
 |20(22)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273750b7abed892c0d26b439e02" />|INNA - Flashbacks|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/34MPH8yqHZhPqn9NfL2J1U)|
 |20(24)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273fec57a7d6f5676af3c9e3100" />|ONEIL & SMOLA - Addicted|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6ahDxAcG3l06piGoDxvcZp)|
-|20(18)🔻| |TWOCOLORS & Pascal LETOUBLON - Break Up| |
 |21(18)🔻|<img src="https://i.scdn.co/image/ab67616d0000b27335948e3f4bd52518dd35cd78" />|ALOK & Ilkay SENCAN & Tove Lo - Don’t Say Goodbye|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq)|
 |21(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2731f8246783ae143bddcd7ad43" />|MAREC & XD - Can't Be Broken|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0piwIXC0zc8b6hMUWgNv6K)|
 |21(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273ba26678947112dff3c3158bf" />|Lil NAS X & Jack HARLOW - Industry Baby|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK)|
