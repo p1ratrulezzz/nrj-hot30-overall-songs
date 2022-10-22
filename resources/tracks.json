@@ -1,5 +1,5 @@
 {
- "updated": "2022-10-21T04:11:45+00:00",
+ "updated": "2022-10-22T04:14:07+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -5309,9 +5309,13 @@
     {
      "value": 13,
      "datetime": "2022-10-08T03:55:18+00:00"
+    },
+    {
+     "value": 15,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 11.142857142857142,
+   "position_avg": 11.318181818181818,
    "spotify": {
     "track": "spotify:track:0HqZX76SFLDz2aW8aiqi7G",
     "album": "spotify:album:1Q9SnHWPNEjVM0LrBFvJ1q",
@@ -5939,9 +5943,13 @@
     {
      "value": 6,
      "datetime": "2022-10-08T03:55:18+00:00"
+    },
+    {
+     "value": 7,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 7.222222222222222,
+   "position_avg": 7.2105263157894735,
    "spotify": {
     "track": ""
    }
@@ -6014,9 +6022,13 @@
     {
      "value": 9,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 13,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 6.75,
+   "position_avg": 7.117647058823529,
    "spotify": {
     "track": ""
    }
@@ -6113,9 +6125,13 @@
     {
      "value": 28,
      "datetime": "2022-10-02T04:28:30+00:00"
+    },
+    {
+     "value": 30,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 11.909090909090908,
+   "position_avg": 12.695652173913043,
    "spotify": {
     "track": ""
    }
@@ -6180,9 +6196,13 @@
     {
      "value": 3,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 6.5,
+   "position_avg": 6.6,
    "spotify": {
     "track": ""
    }
@@ -6349,9 +6369,13 @@
     {
      "value": 22,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 21,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 17.2,
+   "position_avg": 17.4375,
    "spotify": {
     "track": ""
    }
@@ -6412,9 +6436,13 @@
     {
      "value": 26,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 27,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 15.461538461538462,
+   "position_avg": 16.285714285714285,
    "spotify": {
     "track": ""
    }
@@ -6483,9 +6511,13 @@
     {
      "value": 12,
      "datetime": "2022-10-08T03:55:18+00:00"
+    },
+    {
+     "value": 14,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 10.533333333333333,
+   "position_avg": 10.75,
    "spotify": {
     "track": ""
    }
@@ -6640,9 +6672,13 @@
     {
      "value": 24,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 25,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 18.25,
+   "position_avg": 18.76923076923077,
    "spotify": {
     "track": ""
    }
@@ -6695,9 +6731,13 @@
     {
      "value": 15,
      "datetime": "2022-10-02T04:28:30+00:00"
+    },
+    {
+     "value": 12,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 11.727272727272727,
+   "position_avg": 11.75,
    "spotify": {
     "track": ""
    }
@@ -6816,9 +6856,13 @@
     {
      "value": 5,
      "datetime": "2022-09-24T04:36:50+00:00"
+    },
+    {
+     "value": 6,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 9.0,
+   "position_avg": 8.571428571428571,
    "spotify": {
     "track": ""
    }
@@ -6867,9 +6911,13 @@
     {
      "value": 23,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 24,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 24.7,
+   "position_avg": 24.636363636363637,
    "spotify": {
     "track": ""
    }
@@ -7015,9 +7063,13 @@
     {
      "value": 1,
      "datetime": "2022-10-08T03:55:18+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 9.222222222222221,
+   "position_avg": 8.6,
    "spotify": {
     "track": ""
    }
@@ -7062,9 +7114,13 @@
     {
      "value": 2,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 1,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 11.222222222222221,
+   "position_avg": 10.2,
    "spotify": {
     "track": ""
    }
@@ -7105,9 +7161,13 @@
     {
      "value": 10,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 2,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 14.375,
+   "position_avg": 13.0,
    "spotify": {
     "track": ""
    }
@@ -7144,9 +7204,13 @@
     {
      "value": 8,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 9,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 15.0,
+   "position_avg": 14.25,
    "spotify": {
     "track": ""
    }
@@ -7179,9 +7243,13 @@
     {
      "value": 11,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 12.5,
+   "position_avg": 12.142857142857142,
    "spotify": {
     "track": ""
    }
@@ -7206,9 +7274,13 @@
     {
      "value": 21,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 23,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 21.75,
+   "position_avg": 22.0,
    "spotify": {
     "track": ""
    }
@@ -7245,9 +7317,13 @@
     {
      "value": 7,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 5,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 16.714285714285715,
+   "position_avg": 15.25,
    "spotify": {
     "track": ""
    }
@@ -7268,9 +7344,13 @@
     {
      "value": 14,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 11,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 20.0,
+   "position_avg": 17.75,
    "spotify": {
     "track": ""
    }
@@ -7291,9 +7371,13 @@
     {
      "value": 20,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 22,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 23.0,
+   "position_avg": 22.75,
    "spotify": {
     "track": ""
    }
@@ -7310,9 +7394,13 @@
     {
      "value": 25,
      "datetime": "2022-10-02T04:28:30+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 27.0,
+   "position_avg": 24.666666666666668,
    "spotify": {
     "track": ""
    }
@@ -7325,9 +7413,13 @@
     {
      "value": 27,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 28,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 27.0,
+   "position_avg": 27.5,
    "spotify": {
     "track": ""
    }
@@ -7340,9 +7432,13 @@
     {
      "value": 28,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 26,
+     "datetime": "2022-10-22T04:14:07+00:00"
     }
    ],
-   "position_avg": 28.0,
+   "position_avg": 27.0,
    "spotify": {
     "track": ""
    }
