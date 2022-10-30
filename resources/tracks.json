@@ -1,5 +1,5 @@
 {
- "updated": "2022-10-29T03:53:26+00:00",
+ "updated": "2022-10-30T04:04:27+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -5016,9 +5016,13 @@
     {
      "value": 29,
      "datetime": "2022-10-02T04:28:30+00:00"
+    },
+    {
+     "value": 30,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 11.7,
+   "position_avg": 12.571428571428571,
    "spotify": {
     "track": "spotify:track:05eZlxyjbkHMPCnunUasCS",
     "album": "spotify:album:7IneQ0ViJjz9UR0lisWJzJ",
@@ -5313,9 +5317,13 @@
     {
      "value": 15,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 19,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 11.318181818181818,
+   "position_avg": 11.652173913043478,
    "spotify": {
     "track": "spotify:track:0HqZX76SFLDz2aW8aiqi7G",
     "album": "spotify:album:1Q9SnHWPNEjVM0LrBFvJ1q",
@@ -5860,9 +5868,13 @@
     {
      "value": 16,
      "datetime": "2022-10-02T04:28:30+00:00"
+    },
+    {
+     "value": 17,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 12.5,
+   "position_avg": 12.714285714285714,
    "spotify": {
     "track": ""
    }
@@ -5947,9 +5959,13 @@
     {
      "value": 7,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 7.2105263157894735,
+   "position_avg": 7.25,
    "spotify": {
     "track": ""
    }
@@ -6200,9 +6216,13 @@
     {
      "value": 8,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 9,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 6.6,
+   "position_avg": 6.75,
    "spotify": {
     "track": ""
    }
@@ -6440,9 +6460,13 @@
     {
      "value": 27,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 16.285714285714285,
+   "position_avg": 16.533333333333335,
    "spotify": {
     "track": ""
    }
@@ -6735,9 +6759,13 @@
     {
      "value": 12,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 11,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 11.75,
+   "position_avg": 11.692307692307692,
    "spotify": {
     "track": ""
    }
@@ -6790,9 +6818,13 @@
     {
      "value": 19,
      "datetime": "2022-10-15T04:35:56+00:00"
+    },
+    {
+     "value": 22,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 13.727272727272727,
+   "position_avg": 14.416666666666666,
    "spotify": {
     "track": ""
    }
@@ -6860,9 +6892,13 @@
     {
      "value": 6,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 7,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 8.571428571428571,
+   "position_avg": 8.375,
    "spotify": {
     "track": ""
    }
@@ -6915,9 +6951,13 @@
     {
      "value": 24,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 27,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 24.636363636363637,
+   "position_avg": 24.833333333333332,
    "spotify": {
     "track": ""
    }
@@ -7016,9 +7056,13 @@
     {
      "value": 17,
      "datetime": "2022-10-02T04:28:30+00:00"
+    },
+    {
+     "value": 15,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 21.714285714285715,
+   "position_avg": 20.875,
    "spotify": {
     "track": ""
    }
@@ -7208,9 +7252,13 @@
     {
      "value": 9,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 6,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 14.25,
+   "position_avg": 13.333333333333334,
    "spotify": {
     "track": ""
    }
@@ -7247,9 +7295,13 @@
     {
      "value": 10,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 12,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 12.142857142857142,
+   "position_avg": 12.125,
    "spotify": {
     "track": ""
    }
@@ -7348,9 +7400,13 @@
     {
      "value": 11,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 16,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 17.75,
+   "position_avg": 17.4,
    "spotify": {
     "track": ""
    }
@@ -7375,9 +7431,13 @@
     {
      "value": 22,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 26,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 22.75,
+   "position_avg": 23.4,
    "spotify": {
     "track": ""
    }
@@ -7398,9 +7458,13 @@
     {
      "value": 20,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 24.666666666666668,
+   "position_avg": 21.0,
    "spotify": {
     "track": ""
    }
@@ -7417,9 +7481,13 @@
     {
      "value": 28,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 24,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 27.5,
+   "position_avg": 26.333333333333332,
    "spotify": {
     "track": ""
    }
@@ -7436,9 +7504,28 @@
     {
      "value": 26,
      "datetime": "2022-10-22T04:14:07+00:00"
+    },
+    {
+     "value": 28,
+     "datetime": "2022-10-30T04:04:27+00:00"
     }
    ],
-   "position_avg": 27.0,
+   "position_avg": 27.333333333333332,
+   "spotify": {
+    "track": ""
+   }
+  },
+  "c8500b7e": {
+   "artist": "TRIPLO MAX",
+   "artist_display": "TRIPLO MAX",
+   "title": "I Wanna Love You",
+   "positions": [
+    {
+     "value": 29,
+     "datetime": "2022-10-30T04:04:27+00:00"
+    }
+   ],
+   "position_avg": 29.0,
    "spotify": {
     "track": ""
    }
