@@ -23,7 +23,7 @@ class SpotifyTagger():
                 q += trackInfo['title']
 
                 try:
-                    results = self._sp.search(q, limit=3, market='RU')
+                    results = self._sp.search(q, limit=3, market='DE')
                 except Exception:
                     continue
 

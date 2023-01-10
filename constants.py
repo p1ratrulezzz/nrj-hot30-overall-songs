@@ -3,7 +3,7 @@ import yaml
 __all__ = ["JSON_FILENAME", "NRJ_URL", "SPOTIFY"]
 
 JSON_FILENAME = 'resources/tracks.json'
-NRJ_URL = 'https://www.energyfm.ru/nrj_hot_30'
+NRJ_URL = 'https://www.energyfm.ru/hot-30'
 
 with open('spotify.yml', 'r') as token_fp:
     spotify_data = yaml.safe_load(token_fp)
