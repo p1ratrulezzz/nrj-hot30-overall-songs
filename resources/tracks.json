@@ -1,5 +1,5 @@
 {
- "updated": "2023-01-10T03:11:19+00:00",
+ "updated": "2023-01-10T10:39:16+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -5979,9 +5979,13 @@
     {
      "value": 9,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 15,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 7.333333333333333,
+   "position_avg": 7.681818181818182,
    "spotify": {
     "track": ""
    }
@@ -6248,9 +6252,13 @@
     {
      "value": 10,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 23,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 6.9411764705882355,
+   "position_avg": 7.833333333333333,
    "spotify": {
     "track": ""
    }
@@ -6429,9 +6437,13 @@
     {
      "value": 14,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 22,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 17.0,
+   "position_avg": 17.263157894736842,
    "spotify": {
     "track": ""
    }
@@ -6508,9 +6520,13 @@
     {
      "value": 12,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 21,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 16.235294117647058,
+   "position_avg": 16.5,
    "spotify": {
     "track": ""
    }
@@ -6591,9 +6607,13 @@
     {
      "value": 18,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 30,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 11.38888888888889,
+   "position_avg": 12.368421052631579,
    "spotify": {
     "track": ""
    }
@@ -6658,9 +6678,13 @@
     {
      "value": 3,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 11.142857142857142,
+   "position_avg": 11.066666666666666,
    "spotify": {
     "track": ""
    }
@@ -6823,9 +6847,13 @@
     {
      "value": 8,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 11,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 11.428571428571429,
+   "position_avg": 11.4,
    "spotify": {
     "track": ""
    }
@@ -7148,9 +7176,13 @@
     {
      "value": 11,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 16,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 19.5,
+   "position_avg": 19.181818181818183,
    "spotify": {
     "track": ""
    }
@@ -7207,9 +7239,13 @@
     {
      "value": 7,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 14,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 8.25,
+   "position_avg": 8.692307692307692,
    "spotify": {
     "track": ""
    }
@@ -7262,9 +7298,13 @@
     {
      "value": 2,
      "datetime": "2022-11-06T03:44:59+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 9.454545454545455,
+   "position_avg": 9.333333333333334,
    "spotify": {
     "track": ""
    }
@@ -7313,9 +7353,13 @@
     {
      "value": 1,
      "datetime": "2022-11-06T03:44:59+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 11.8,
+   "position_avg": 11.0,
    "spotify": {
     "track": ""
    }
@@ -7368,9 +7412,13 @@
     {
      "value": 4,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 7,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 11.545454545454545,
+   "position_avg": 11.166666666666666,
    "spotify": {
     "track": ""
    }
@@ -7454,9 +7502,13 @@
     {
      "value": 17,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 6,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 21.142857142857142,
+   "position_avg": 19.25,
    "spotify": {
     "track": ""
    }
@@ -7501,9 +7553,13 @@
     {
      "value": 6,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 2,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 14.222222222222221,
+   "position_avg": 13.0,
    "spotify": {
     "track": ""
    }
@@ -7602,9 +7658,13 @@
     {
      "value": 5,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 4,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 17.8,
+   "position_avg": 15.5,
    "spotify": {
     "track": ""
    }
@@ -7633,9 +7693,13 @@
     {
      "value": 15,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 17,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 22.4,
+   "position_avg": 21.5,
    "spotify": {
     "track": ""
    }
@@ -7698,9 +7762,13 @@
     {
      "value": 21,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 1,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 25.0,
+   "position_avg": 17.0,
    "spotify": {
     "track": ""
    }
@@ -7732,9 +7800,13 @@
     {
      "value": 27,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 19,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 27.0,
+   "position_avg": 23.0,
    "spotify": {
     "track": ""
    }
@@ -7747,9 +7819,13 @@
     {
      "value": 29,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 18,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 29.0,
+   "position_avg": 23.5,
    "spotify": {
     "track": ""
    }
@@ -7762,11 +7838,168 @@
     {
      "value": 30,
      "datetime": "2022-11-12T03:49:51+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2023-01-10T10:39:13+00:00"
     }
    ],
-   "position_avg": 30.0,
+   "position_avg": 25.0,
    "spotify": {
     "track": ""
+   }
+  },
+  "ba3d0b55": {
+   "artist": "ALMA",
+   "artist_display": "ALMA",
+   "title": "Summer Really Hurt Us",
+   "positions": [
+    {
+     "value": 5,
+     "datetime": "2023-01-10T10:39:13+00:00"
+    }
+   ],
+   "position_avg": 5.0,
+   "spotify": {
+    "track": "spotify:track:2JUvLynhFJsuEDZdJarBBH",
+    "album": "spotify:album:2GidwkbzGUKWKITSkCEJxD",
+    "image": "https://i.scdn.co/image/ab67616d0000b27302b540b26162efc82fc6002b"
+   }
+  },
+  "6cc50891": {
+   "artist": "EMINEM",
+   "artist_display": "EMINEM",
+   "title": "Mockingbird",
+   "positions": [
+    {
+     "value": 9,
+     "datetime": "2023-01-10T10:39:13+00:00"
+    }
+   ],
+   "position_avg": 9.0,
+   "spotify": {
+    "track": "spotify:track:561jH07mF1jHuk7KlaeF0s",
+    "album": "spotify:album:1kTlYbs28MXw7hwO0NLYif",
+    "image": "https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023"
+   }
+  },
+  "9f1109eb": {
+   "artist": "FILATOV,KARAS",
+   "artist_display": "FILATOV & KARAS",
+   "title": "I Keep On",
+   "positions": [
+    {
+     "value": 12,
+     "datetime": "2023-01-10T10:39:13+00:00"
+    }
+   ],
+   "position_avg": 12.0,
+   "spotify": {
+    "track": "spotify:track:5mNA4S5GxrMIphLK02smo8",
+    "album": "spotify:album:5L2QtFR6stsPEXu79LxFAH",
+    "image": "https://i.scdn.co/image/ab67616d0000b273709ff62b3f2cbea2e48521a1"
+   }
+  },
+  "6a81081f": {
+   "artist": "AURORA",
+   "artist_display": "AURORA",
+   "title": "Cure For Me",
+   "positions": [
+    {
+     "value": 13,
+     "datetime": "2023-01-10T10:39:13+00:00"
+    }
+   ],
+   "position_avg": 13.0,
+   "spotify": {
+    "track": "spotify:track:7kEva2rxsNMn07fyfZMRRn",
+    "album": "spotify:album:0wmk4PJg0PWWaADQeAVO6N",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735ba4cc0508ba66eb8f099c9e"
+   }
+  },
+  "63400f32": {
+   "artist": "Alan WALKER,SORANA",
+   "artist_display": "Alan WALKER & SORANA",
+   "title": "Catch Me If You Can",
+   "positions": [
+    {
+     "value": 25,
+     "datetime": "2023-01-10T10:39:13+00:00"
+    }
+   ],
+   "position_avg": 25.0,
+   "spotify": {
+    "track": "spotify:track:1NLATwwXcg0ff8PDY7xkYM",
+    "album": "spotify:album:6kbiBMllsbGVYMAy8YJKs9",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a152de6438e748b4c0cddff7"
+   }
+  },
+  "c3350b7b": {
+   "artist": "Ava Max",
+   "artist_display": "Ava Max",
+   "title": "Million Dollar Baby",
+   "positions": [
+    {
+     "value": 26,
+     "datetime": "2023-01-10T10:39:13+00:00"
+    }
+   ],
+   "position_avg": 26.0,
+   "spotify": {
+    "track": "spotify:track:3pPN20syOYvbUuEiBpbenI",
+    "album": "spotify:album:4fCW1XNPfBY6rgL1scsfGC",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a50a28ac6603026e2a93916b"
+   }
+  },
+  "9e3509da": {
+   "artist": "ENISA",
+   "artist_display": "ENISA",
+   "title": "Just A Kiss (Muah)",
+   "positions": [
+    {
+     "value": 27,
+     "datetime": "2023-01-10T10:39:13+00:00"
+    }
+   ],
+   "position_avg": 27.0,
+   "spotify": {
+    "track": "spotify:track:2wN8OUgQDQTCkMSctWq1c2",
+    "album": "spotify:album:2KfGtk53MnZ6Wb7vw4Afsy",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e1867a7d8f862b69c172e0a2"
+   }
+  },
+  "c7080b88": {
+   "artist": "Mario Fresh,RENVTO",
+   "artist_display": "Mario Fresh & RENVTO",
+   "title": "Necesar",
+   "positions": [
+    {
+     "value": 28,
+     "datetime": "2023-01-10T10:39:13+00:00"
+    }
+   ],
+   "position_avg": 28.0,
+   "spotify": {
+    "track": "spotify:track:0nkeV4kaa4xvifptkypzDY",
+    "album": "spotify:album:2BaVgV8nOEbHRETHWHm2Le",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732192b083d55313ad7a3ad571"
+   }
+  },
+  "9d81106f": {
+   "artist": "METRO BOOMIN,The Weeknd,21 SAVAGE",
+   "artist_display": "METRO BOOMIN & The Weeknd & 21 SAVAGE",
+   "title": "Creepin",
+   "positions": [
+    {
+     "value": 29,
+     "datetime": "2023-01-10T10:39:13+00:00"
+    }
+   ],
+   "position_avg": 29.0,
+   "spotify": {
+    "track": "spotify:track:2dHHgzDwk4BJdRwy9uXhTO",
+    "album": "spotify:album:7txGsnDSqVMoRl6RQ9XyZP",
+    "image": "https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2"
    }
   }
  }
