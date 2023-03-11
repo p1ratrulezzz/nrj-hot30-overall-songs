@@ -1,5 +1,5 @@
 {
- "updated": "2023-03-10T03:21:22+00:00",
+ "updated": "2023-03-11T03:09:59+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -7505,9 +7505,13 @@
     {
      "value": 30,
      "datetime": "2023-03-04T03:11:39+00:00"
+    },
+    {
+     "value": 29,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 14.777777777777779,
+   "position_avg": 15.526315789473685,
    "spotify": {
     "track": ""
    }
@@ -7769,9 +7773,13 @@
     {
      "value": 12,
      "datetime": "2023-02-26T03:21:19+00:00"
+    },
+    {
+     "value": 13,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 11.285714285714286,
+   "position_avg": 11.4,
    "spotify": {
     "track": ""
    }
@@ -8022,9 +8030,13 @@
     {
      "value": 3,
      "datetime": "2023-03-04T03:11:39+00:00"
+    },
+    {
+     "value": 2,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 11.2,
+   "position_avg": 9.666666666666666,
    "spotify": {
     "track": ""
    }
@@ -8057,9 +8069,13 @@
     {
      "value": 28,
      "datetime": "2023-02-18T03:10:30+00:00"
+    },
+    {
+     "value": 30,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 27.0,
+   "position_avg": 27.428571428571427,
    "spotify": {
     "track": ""
    }
@@ -8100,9 +8116,13 @@
     {
      "value": 2,
      "datetime": "2023-03-04T03:11:39+00:00"
+    },
+    {
+     "value": 4,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 10.25,
+   "position_avg": 9.555555555555555,
    "spotify": {
     "track": ""
    }
@@ -8225,9 +8245,13 @@
     {
      "value": 7,
      "datetime": "2023-02-26T03:21:19+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 4.166666666666667,
+   "position_avg": 5.0,
    "spotify": {
     "track": "spotify:track:2JUvLynhFJsuEDZdJarBBH",
     "album": "spotify:album:2GidwkbzGUKWKITSkCEJxD",
@@ -8262,9 +8286,13 @@
     {
      "value": 4,
      "datetime": "2023-03-04T03:11:39+00:00"
+    },
+    {
+     "value": 5,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 4.833333333333333,
+   "position_avg": 4.857142857142857,
    "spotify": {
     "track": "spotify:track:561jH07mF1jHuk7KlaeF0s",
     "album": "spotify:album:1kTlYbs28MXw7hwO0NLYif",
@@ -8389,9 +8417,13 @@
     {
      "value": 5,
      "datetime": "2023-03-04T03:11:39+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 11.571428571428571,
+   "position_avg": 11.125,
    "spotify": {
     "track": "spotify:track:1NLATwwXcg0ff8PDY7xkYM",
     "album": "spotify:album:6kbiBMllsbGVYMAy8YJKs9",
@@ -8533,9 +8565,13 @@
     {
      "value": 10,
      "datetime": "2023-02-26T03:21:19+00:00"
+    },
+    {
+     "value": 11,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 16.428571428571427,
+   "position_avg": 15.75,
    "spotify": {
     "track": "spotify:track:2dHHgzDwk4BJdRwy9uXhTO",
     "album": "spotify:album:7txGsnDSqVMoRl6RQ9XyZP",
@@ -8611,9 +8647,13 @@
     {
      "value": 8,
      "datetime": "2023-03-04T03:11:39+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 14.666666666666666,
+   "position_avg": 13.0,
    "spotify": {
     "track": "spotify:track:5eViauIs7v3gJI2lTubumh",
     "album": "spotify:album:5Wji25Nr9IOk6eHcgwxZsE",
@@ -8644,9 +8684,13 @@
     {
      "value": 13,
      "datetime": "2023-02-26T03:21:19+00:00"
+    },
+    {
+     "value": 14,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 16.8,
+   "position_avg": 16.333333333333332,
    "spotify": {
     "track": "spotify:track:38T0tPVZHcPZyhtOcCP7pF",
     "album": "spotify:album:0aIy6J8M9yHTnjtRu81Nr9",
@@ -8776,9 +8820,13 @@
     {
      "value": 11,
      "datetime": "2023-02-26T03:21:19+00:00"
+    },
+    {
+     "value": 12,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 19.0,
+   "position_avg": 17.6,
    "spotify": {
     "track": "spotify:track:4Wu62DoQg1ECGlDKDfo30R",
     "album": "spotify:album:1D8XFqGY27IpYFAKB61h8v",
@@ -8801,9 +8849,13 @@
     {
      "value": 14,
      "datetime": "2023-03-04T03:11:39+00:00"
+    },
+    {
+     "value": 7,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 21.333333333333332,
+   "position_avg": 17.75,
    "spotify": {
     "track": "spotify:track:0zKbDrEXKpnExhGQRe9dxt",
     "album": "spotify:album:0EYKSXXTsON8ZA95BuCoXn",
@@ -8835,13 +8887,34 @@
     {
      "value": 29,
      "datetime": "2023-03-04T03:11:39+00:00"
+    },
+    {
+     "value": 24,
+     "datetime": "2023-03-11T03:09:58+00:00"
     }
    ],
-   "position_avg": 29.0,
+   "position_avg": 26.5,
    "spotify": {
     "track": "spotify:track:0LVjBdjZvJykxed42ExTLf",
     "album": "spotify:album:0MNpgjf367wpgf742ZkHGr",
     "image": "https://i.scdn.co/image/ab67616d0000b27333a25e062a95e6a06243ed04"
+   }
+  },
+  "5f9907c6": {
+   "artist": "ILIRA",
+   "artist_display": "ILIRA",
+   "title": "Clean Break",
+   "positions": [
+    {
+     "value": 28,
+     "datetime": "2023-03-11T03:09:58+00:00"
+    }
+   ],
+   "position_avg": 28.0,
+   "spotify": {
+    "track": "spotify:track:4d1WoQ6dW7feMW9dGchNyL",
+    "album": "spotify:album:5P5zoDRaqk5X3wZvcuZdYK",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fcc384b33da942cb7107ef90"
    }
   }
  }
