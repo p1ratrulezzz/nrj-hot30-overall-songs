@@ -16,13 +16,13 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 
 |Position||Track||
 |---|---|--------|---|
-|6(4)🔻|<img src="https://i.scdn.co/image/ab67616d0000b2736e2cd4b6c10cbcf5dbf2e8ad" />|PURPLE DISCO MACHINE & KUNGS - Substitution|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5JBtWpLoGO62gb5vax505b)|
+|6(5)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2736e2cd4b6c10cbcf5dbf2e8ad" />|PURPLE DISCO MACHINE & KUNGS - Substitution|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5JBtWpLoGO62gb5vax505b)|
 |7(13)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273f1462ebfec5f96421f44dcd3" />|ATB & TOPIC & A7S - Your Love (9 PM)|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)|
-|7(8)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27365a65fc35b894eb5299c1956" />|Oliver HELDENS & DJS FROM MARS & JD DAVIS - Blue Monday|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt)|
+|7(10)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27365a65fc35b894eb5299c1956" />|Oliver HELDENS & DJS FROM MARS & JD DAVIS - Blue Monday|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt)|
 |7(16)⬆| |Nessa BARRETT - Dying On The Inside| |
 |8(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27328eec1bed4fe754299ea1e96" />|SHOUSE - Love Tonight|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)|
-|8(15)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" />|Miley CYRUS - Flowers|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn)|
 |8(13)⬆| |Jason DERULO & DE LA GHETTO & Sofia REYES - 1, 2, 3| |
+|8(16)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d" />|Miley CYRUS - Flowers|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn)|
 |8(25)⬆| |The FUTURE X - This Kind Of Love| |
 |9(30)⬆| |SHAKIRA & Rauw ALEJANDRO - Te Felicito| |
 |9(2)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273bf20cc6935270a61a954a1f0" />|Rita ORA - Don't Think Twice|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/3kWMO7rpr9VpJF8csmCPec)|
@@ -32,26 +32,27 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |9(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273ad3e41cac8ba2744f7c65298" />|CASSETTE - CASSETTE - My Way|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0apbp87wAygaNTpkqFBbZ6)|
 |10(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27360b16fc0b0cc5948f2173511" />|ALOK & Sofi TUKKER & INNA - It Don't Matter|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s)|
 |10(22)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27302b540b26162efc82fc6002b" />|ALMA - Summer Really Hurt Us|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2JUvLynhFJsuEDZdJarBBH)|
+|10(8)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273ba65d77d9fd2a8deada1b7a9" />|TWOCOLORS & SAFRI DUO & Chris DE SARANDY - Cynical|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9)|
 |10(12)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273a9897f65d1ead1be10a51e3f" />|Jaymes YOUNG - Infinity|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK)|
 |10(26)⬆| |Alis SHUKA - Not About Us (Byjoelmichael rmx)| |
 |10(21)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27380fd293e4b083f0f5d3e5a77" />|Tove LO - Borderline|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0)|
 |10(1)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273028b9a72c08db84217babfb0" />|Jason DERULO & DIDO - When Love Sucks|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5)|
-|10(11)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273ba65d77d9fd2a8deada1b7a9" />|TWOCOLORS & SAFRI DUO & Chris DE SARANDY - Cynical|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9)|
+|11(9)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2731dacb4f92caf0b997cf2b6c7" />|The KOLORS - Italodisco|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/43pHUQU7qwHXJpeakXcZHa)|
 |11(24)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273b326659fee99b65e4a55c8d2" />|UNKLFNKL - Oh My Darling|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7r9iy7fsHvPU2qkjhUedFC)|
-|11(6)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2731dacb4f92caf0b997cf2b6c7" />|The KOLORS - Italodisco|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/43pHUQU7qwHXJpeakXcZHa)|
 |11(27)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27365f27da14d572556a8a59755" />|INNA - Up|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/3ajgQFhKuWa4Hz6VgkThuO)|
 |11(27)⬆| |Tove LO - 2 Die 4| |
 |12(24)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273813713582dcc508e7d5073c4" />|IMAGINE DRAGONS - Bones|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G)|
 |12(29)🔻|<img src="https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e" />|Elley DUHE - Middle Of The Night|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly)|
 |12(29)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273d00a6c9b30ed092f109f6b66" />|Nessa BARRETT & JXDN - La Di Die|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6VL8q11bnShJ1k8I708QNx)|
 |12(28)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2731f7bf536042e87697895713d" />|MELISA & TOMMO - I'm Alone|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0rAR3pLSgnEBAk17DMH2qd)|
-|12(17)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2739a8459318ff1a68ecfd74522" />|Peggy Gou - (It Goes Like) Nanana|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w)|
 |12(30)⬆| |KLANGKARUSSELL - Home| |
 |12(29)⬆| |Felix JAEHN & Ray DALTON - Call It Love| |
 |12(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273bc927f76381d64ba6fa6d715" />|Tove Lo - How Long|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS)|
 |12(30)⬆| |PURPLE DISCO MACHINE & SOPHIE AND THE GIANTS - In The Dark| |
 |12(30)⬆| |Jaymes YOUNG - Infinity (Pretty Young rmx)| |
+|12(6)🔻|<img src="https://i.scdn.co/image/ab67616d0000b2736131b5ea29f95c9237e0862f" />|TIESTO & 21 SAVAGE & BIA - Both|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft)|
 |12(28)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273633f46784e8a4c40fc22f009" />|FILATOV & KARAS & BUSY REMO - Au Revoir|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1vrCnB3KowhQawaznByX97)|
+|12(18)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2739a8459318ff1a68ecfd74522" />|Peggy Gou - (It Goes Like) Nanana|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w)|
 |12(26)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273c8fdaf1b33263d88246ba90a" />|TIESTO - Lay Low|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt)|
 |12(28)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2738c5404b18e771554b03ac25d" />|MINELLI - Rampampam|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0e3CM2Fm4cpDtxjzYkdLAr)|
 |12(22)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273bf4709097776c512ee196b18" />|ONEIL & AIZE & Danna MAX - Un-Break My Heart|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/37rHEWlNfnsel9k5c4Z9w1)|
@@ -70,33 +71,32 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |13(8)🔻| |REGARD & YEARS & YAERS - Hallucination| |
 |13(27)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2730104ba1c190f17cc5275b76d" />|Oliver TREE & Robin SCHULZ - Miss You|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5eViauIs7v3gJI2lTubumh)|
 |13(26)🔻| |Olivia ADDAMS - Fool Me Once| |
-|13(10)🔻|<img src="https://i.scdn.co/image/ab67616d0000b2736131b5ea29f95c9237e0862f" />|TIESTO & 21 SAVAGE & BIA - Both|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft)|
 |13(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2733e349eb68490a95dc4d233fd" />|HUGEL & Stefy DE CICCO & Hugo CANTARRA & Nikol APATINI - 4 To The Floor|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/55AQHvuv5KtjehVJ6oHe4k)|
+|14(4)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273cd074cc1d77ef0b7dfd24562" />|Robin SCHULZ - One With The Wolves|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv)|
 |14(23)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2735fb65297a8df44de8e45482c" />|IMANBEK & Sean PAUL & Sofia REYES - Dancing On Dangerous|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/25lbf97ngD9roqj74IRnAU)|
 |14(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273a152de6438e748b4c0cddff7" />|Alan WALKER & SORANA - Catch Me If You Can|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM)|
-|14(14)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273b70b8103e889c189285959f8" />|SWITCH DISCO & Ella HENDERSON - React|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5YarnyeXT0w0vMCgb5R7d5)|
+|14(15)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273b70b8103e889c189285959f8" />|SWITCH DISCO & Ella HENDERSON - React|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5YarnyeXT0w0vMCgb5R7d5)|
 |14(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27384350b406522fc53c1b2a621" />|MASKED WOLF - Astronaut In The Ocean|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277)|
 |14(22)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273c29e248f1cb5726066013742" />|Alina GERC - I Love You|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2EljF7aXNMXlGK9gHPoxLJ)|
 |14(30)⬆| |MANESKIN - Supermodel| |
-|14(13)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273b843c3f68a6f648422a17e8f" />|Jax JONES & FIREBOY DML - Me And My Guitar|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC)|
+|14(14)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273b843c3f68a6f648422a17e8f" />|Jax JONES & FIREBOY DML - Me And My Guitar|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC)|
 |14(29)🔻| |TWOCOLORS - Heavy Metal Love| |
-|14(16)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273a4ffb2049ffce92bdae5f559" />|Troye SIVAN - Rush|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3)|
 |14(28)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273704a7e47f17e7872a259e8e4" />|Lost Frequencies & Elley DUHE & X AMBASSADORS - Back To You|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1nAfdzR52TOZy5gOxKfmLD)|
 |15(22)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2736a2b19441853c63b2702ca55" />|ALOK & GAULLIN & KOHEN - Ameno|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1ZtJ5jpms7HB51Peao57QO)|
+|15(17)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273a4ffb2049ffce92bdae5f559" />|Troye SIVAN - Rush|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3)|
+|15(7)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2735a030481b0ad9a9efa103bf8" />|ALOK & Ava Max - Car Keys (Ayla)|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)|
 |15(28)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273cfc4723ecf00e5ab03d3c3c8" />|GAULLIN & Julian PERRETTA - GAULLIN & PERRETTA, Julian - Seven Nation Army|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP)|
 |15(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2735ba4cc0508ba66eb8f099c9e" />|AURORA - Cure For Me|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7kEva2rxsNMn07fyfZMRRn)|
-|15(27)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273982cea9a6b4407c27df8742f" />|Jax JONES & Calum SCOTT - Whistle|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1efbPirva8Iq3tTQuyT8Bw)|
+|15(11)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27365333e97834f81914f53910c" />|J BALVIN & USHER & DJ KHALED - Dientes|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm)|
 |15(28)🔻| |David GUETTA & Bebe REXHA - I Am Good (Blue)| |
 |15(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273de0458528b3e9d7290448399" />|COYOT - Remember|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1ClSzO8r4AmutluvghbyVR)|
 |15(25)⬆| |RAFFA FL - Ritmo| |
 |15(24)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27302d82cf34fefe6736718acd1" />|GAYLE - Abcdefu|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL)|
-|16(7)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273cd074cc1d77ef0b7dfd24562" />|Robin SCHULZ - One With The Wolves|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv)|
+|16(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273982cea9a6b4407c27df8742f" />|Jax JONES & Calum SCOTT - Whistle|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1efbPirva8Iq3tTQuyT8Bw)|
 |16(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273dfb7fffec83a48f0548116f1" />|HOLY MOLLY - Shot A Friend|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/27yUNsQo2CPPokNw69M23X)|
 |16(25)⬆| |Travis SCOTT & HVME - Goosebumps (rmx)| |
 |16(30)⬆| |MINELLI & R3HAB - Deep Sea| |
 |16(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2734cef50f6a5d84d46ad9a4af1" />|MADONNA & SICKICK - Frozen|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX)|
-|16(5)🔻|<img src="https://i.scdn.co/image/ab67616d0000b2735a030481b0ad9a9efa103bf8" />|ALOK & Ava Max - Car Keys (Ayla)|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ)|
-|16(9)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27365333e97834f81914f53910c" />|J BALVIN & USHER & DJ KHALED - Dientes|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm)|
 |16(27)⬆| |CASSETTE - Tell Me Why| |
 |16(26)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273702318f68c9dc5878d276ac6" />|CHAEL & KAII - Don't Speak|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2yQLFrmKEnal3zYuOxJQAi)|
 |16(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27371994d918826703689237539" />|Nils VAN ZANDT & PAKITO - Lonely|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0HtRoNpikkCYgaXXLr6kPz)|
@@ -123,6 +123,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |18(25)⬆| |James HYPE & Miggy DELA ROSA - Ferrari| |
 |18(23)⬆| |Elton JOHN & Britney SPEARS - Hold Me Closer| |
 |19(22)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273ef7571a9ebc06774f1d93654" />|rsstr - dj|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2JEQdvZ3sll54FKPmavrg9)|
+|19(13)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273ab3909346dfef2f47cdbd979" />|IMANBEK - All Eyez On Me|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0OsfIkq5kOtNQkvkgtLgPJ)|
 |19(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2735b8cf73dd4eebd286d9a2c78" />|PINK - Hate Me|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6MrYw32izcQ1yzrGqmzPrd)|
 |19(28)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2738542fd936fb29c16b4a9df86" />|LINKIN PARK - Lost|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl)|
 |19(28)🔻|<img src="https://i.scdn.co/image/ab67616d0000b27342e931b9b23256143ec17d73" />|Julian JORDAN & Teo MANDRELLI & Jordan GRACE - Shout|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1GFvbOYthzOfJu7JXk4Khi)|
@@ -152,7 +153,6 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |21(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273ba26678947112dff3c3158bf" />|Lil NAS X & Jack HARLOW - Industry Baby|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK)|
 |21(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273485a99b0b0116a6d0db63052" />|VANOTEK & DENITIA - Someone|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6H4QZBVYpQEY4b0NpQKyjE)|
 |22(22)|<img src="https://i.scdn.co/image/ab67616d0000b2737b0c8769bb845f164500f992" />|LOST CAPITAL - Gangsta Paradise|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6QxYBXqnlEg30JrnEMy60A)|
-|22(18)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273ab3909346dfef2f47cdbd979" />|IMANBEK - All Eyez On Me|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0OsfIkq5kOtNQkvkgtLgPJ)|
 |22(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273709ff62b3f2cbea2e48521a1" />|FILATOV & KARAS - I Keep On|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5mNA4S5GxrMIphLK02smo8)|
 |22(27)⬆| |ALOK & SIGALA & Ellie GOULDING - All By Myself| |
 |22(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2733689a1f368d9ccb3230652cf" />|IMANBEK & Trevor DANIEL - In The Morning|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0ACfiXjjR1eqnxbqPxrdIC)|
@@ -196,6 +196,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |26(30)⬆| |Alan WALKER - The Drum| |
 |26(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273c1b211b5fcdef31be5f806df" />|MANESKIN - Baby Said|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ)|
 |27(25)🔻|<img src="https://i.scdn.co/image/ab67616d0000b27318b2c39fa740e2822d40d65b" />|Skylar GREY & POLO G & MOZZY & EMINEM - Last One Standing|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ)|
+|27(27)|<img src="https://i.scdn.co/image/ab67616d0000b273119e86ab31abf9323008dc1c" />|ALOK & The CHAINSMOKERS & Mae STEPHENS - Jungle|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x)|
 |27(27)🔻| |SLIDER & MAGNIT - Stacked| |
 |27(29)⬆| |TAYC - N'y Pense Plus| |
 |27(28)🔻| |Olivia ADDAMS & Dylan FUENTES - Telepathy| |
