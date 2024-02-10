@@ -1,5 +1,5 @@
 {
- "updated": "2024-02-09T03:09:29+00:00",
+ "updated": "2024-02-10T03:10:04+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -11965,9 +11965,13 @@
     {
      "value": 19,
      "datetime": "2024-01-20T03:09:54+00:00"
+    },
+    {
+     "value": 9,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 10.65,
+   "position_avg": 10.571428571428571,
    "spotify": {
     "track": "spotify:track:2grS8y9w2vVp7sDJ3RnSx9",
     "album": "spotify:album:2FSVbytdzBlR6SBT4AFewv",
@@ -12314,9 +12318,13 @@
     {
      "value": 26,
      "datetime": "2024-01-27T03:09:25+00:00"
+    },
+    {
+     "value": 30,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 20.235294117647058,
+   "position_avg": 20.77777777777778,
    "spotify": {
     "track": "spotify:track:22dUzMFttcR3uU17NcOAIv",
     "album": "spotify:album:3XDtRvXV5DR1xZfvcneG2C",
@@ -12570,9 +12578,13 @@
     {
      "value": 5,
      "datetime": "2024-02-06T03:10:21+00:00"
+    },
+    {
+     "value": 11,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 9.615384615384615,
+   "position_avg": 9.714285714285714,
    "spotify": {
     "track": "spotify:track:7mobUfp1aL8A6CdugCMWft",
     "album": "spotify:album:4WithBxkUVDf6Xe0KbTOkL",
@@ -12934,9 +12946,13 @@
     {
      "value": 11,
      "datetime": "2024-02-06T03:10:21+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 13.25,
+   "position_avg": 12.11111111111111,
    "spotify": {
     "track": "spotify:track:6Iz6nezNRuUZNgSiJ3ghwl",
     "album": "spotify:album:4YbieCk1Kxz8RhpaiMxeHF",
@@ -13020,9 +13036,13 @@
     {
      "value": 25,
      "datetime": "2024-01-27T03:09:25+00:00"
+    },
+    {
+     "value": 21,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 25.5,
+   "position_avg": 24.857142857142858,
    "spotify": {
     "track": "spotify:track:2IGMVunIBsBLtEQyoI1Mu7",
     "album": "spotify:album:54dZypaXHAIDzBe9ujAZ63",
@@ -13053,9 +13073,13 @@
     {
      "value": 1,
      "datetime": "2024-01-13T03:09:40+00:00"
+    },
+    {
+     "value": 2,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 17.2,
+   "position_avg": 14.666666666666666,
    "spotify": {
     "track": "spotify:track:5mjYQaktjmjcMKcUIcqz4s",
     "album": "spotify:album:18ogtNq9F7DmMkNYO6Xb4k",
@@ -13094,9 +13118,13 @@
     {
      "value": 2,
      "datetime": "2024-02-06T03:10:21+00:00"
+    },
+    {
+     "value": 24,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 11.142857142857142,
+   "position_avg": 12.75,
    "spotify": {
     "track": "spotify:track:6ehWdR7cGDXnT7aKEASJxE",
     "album": "spotify:album:4DKnznk5VbGVvAOYBbQrZJ",
@@ -13135,9 +13163,13 @@
     {
      "value": 4,
      "datetime": "2024-02-06T03:10:21+00:00"
+    },
+    {
+     "value": 1,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 13.571428571428571,
+   "position_avg": 12.0,
    "spotify": {
     "track": "spotify:track:5wtSei6pJpDEB1iKqPHhfU",
     "album": "spotify:album:5pTaRVLwZOFObIbRBubmeb",
@@ -13172,9 +13204,13 @@
     {
      "value": 3,
      "datetime": "2024-02-06T03:10:21+00:00"
+    },
+    {
+     "value": 13,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 10.166666666666666,
+   "position_avg": 10.571428571428571,
    "spotify": {
     "track": "spotify:track:5KTZgG84bKFGm53lhLtTqc",
     "album": "spotify:album:5asqLE8StjaHpMWSyjzo2D",
@@ -13234,9 +13270,13 @@
     {
      "value": 17,
      "datetime": "2024-02-06T03:10:21+00:00"
+    },
+    {
+     "value": 4,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 19.333333333333332,
+   "position_avg": 15.5,
    "spotify": {
     "track": "spotify:track:1CcLA0eaauck34YEIrvAAq",
     "album": "spotify:album:3vT1YpvKNkGVN3XE1f3kQY",
@@ -13259,9 +13299,13 @@
     {
      "value": 22,
      "datetime": "2024-01-27T03:09:25+00:00"
+    },
+    {
+     "value": 5,
+     "datetime": "2024-02-10T03:09:59+00:00"
     }
    ],
-   "position_avg": 24.0,
+   "position_avg": 19.25,
    "spotify": {
     "track": "spotify:track:6usohdchdzW9oML7VC4Uhk",
     "album": "spotify:album:5QMiub2LonMqxB7dhtbPlX",
@@ -13329,6 +13373,295 @@
     "track": "spotify:track:5K0gz0awpped1dTOfugUG2",
     "album": "spotify:album:1dnHLs3zcGUMbqNLqLHZFC",
     "image": "https://i.scdn.co/image/ab67616d0000b273e487e8af19f010357e11d014"
+   }
+  },
+  "468f06af": {
+   "artist": "SIA",
+   "artist_display": "SIA",
+   "title": "Gimme Love",
+   "positions": [
+    {
+     "value": 7,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 7.0,
+   "spotify": {
+    "track": "spotify:track:31OmW9ggGpVuWW1Wv2AaHR",
+    "album": "spotify:album:0IjGrJuTiIEn0ooKLAsOMc",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d636d4786474f09451e91d08"
+   }
+  },
+  "9b4209ea": {
+   "artist": "Jack HARLOW",
+   "artist_display": "Jack HARLOW",
+   "title": "Lovin On Me",
+   "positions": [
+    {
+     "value": 8,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 8.0,
+   "spotify": {
+    "track": "spotify:track:4xhsWYTOGcal8zt0J161CU",
+    "album": "spotify:album:6VCO0fDBGbRW8mCEvV95af",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fcf4adae77baba5d0169e8e8"
+   }
+  },
+  "60b707c1": {
+   "artist": "LOREEN",
+   "artist_display": "LOREEN",
+   "title": "Is It Love",
+   "positions": [
+    {
+     "value": 10,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 10.0,
+   "spotify": {
+    "track": "spotify:track:5JEzgajKcC4eIQfRu3cZk7",
+    "album": "spotify:album:6fYOQSJpXKdVBkD09Kg2lf",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a6d642f43edc9d64e0c0da03"
+   }
+  },
+  "3062056a": {
+   "artist": "TYLA",
+   "artist_display": "TYLA",
+   "title": "Water",
+   "positions": [
+    {
+     "value": 12,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 12.0,
+   "spotify": {
+    "track": "spotify:track:5aIVCx5tnk0ntmdiinnYvw",
+    "album": "spotify:album:22sXXkKgjEuawIFL1e1tRw",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e"
+   }
+  },
+  "51b00ef4": {
+   "artist": "Zara LARSSON,David GUETTA",
+   "artist_display": "Zara LARSSON & David GUETTA",
+   "title": "On My Love",
+   "positions": [
+    {
+     "value": 14,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 14.0,
+   "spotify": {
+    "track": "spotify:track:0dxp7DyPJEo6JhtnjUtBnN",
+    "album": "spotify:album:1NoYjCb7ReBR4kfmjntHTi",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c7337ca0137ed4f15f00e3ca"
+   }
+  },
+  "8210094c": {
+   "artist": "ONE REPUBLIC",
+   "artist_display": "ONE REPUBLIC",
+   "title": "Runaway",
+   "positions": [
+    {
+     "value": 15,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 15.0,
+   "spotify": {
+    "track": "spotify:track:07fbDnkKdZGk1gLvknxrns",
+    "album": "spotify:album:1ZltEbn50sQMxoD5TvbNXe",
+    "image": "https://i.scdn.co/image/ab67616d0000b273587d488364806d8961317390"
+   }
+  },
+  "e8fa11da": {
+   "artist": "Robin SCHULZ,Rita ORA,TIAGO PZK",
+   "artist_display": "Robin SCHULZ & Rita ORA & TIAGO PZK",
+   "title": "I'll Be There",
+   "positions": [
+    {
+     "value": 16,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 16.0,
+   "spotify": {
+    "track": "spotify:track:0JwXH0xA7o7HUfVfyFh1H6",
+    "album": "spotify:album:0fO4oE2tNqegemqaq8byqQ",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fa1afe2ac63cd46fa83eedd3"
+   }
+  },
+  "1b00d37": {
+   "artist": "MARSHMELLO,PINK,STING",
+   "artist_display": "MARSHMELLO & PINK & STING",
+   "title": "Dreaming",
+   "positions": [
+    {
+     "value": 17,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 17.0,
+   "spotify": {
+    "track": "spotify:track:4NUmZ5svM1Bbmaz5udqUeJ",
+    "album": "spotify:album:7msKLkViyWdF6X3QdlC6wK",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736a5048685cdbd998373076e6"
+   }
+  },
+  "a45b0a84": {
+   "artist": "ED SHEERAN",
+   "artist_display": "ED SHEERAN",
+   "title": "American Town",
+   "positions": [
+    {
+     "value": 18,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 18.0,
+   "spotify": {
+    "track": "spotify:track:19eUFBAnHBuTz6TCJXhu7h",
+    "album": "spotify:album:4JBIPXbjtBx7keWjTnGYeJ",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736317464f614654da5d8a58eb"
+   }
+  },
+  "2f80cec": {
+   "artist": "Michael Schulte,R3HAB",
+   "artist_display": "Michael Schulte & R3HAB",
+   "title": "Better Me",
+   "positions": [
+    {
+     "value": 19,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 19.0,
+   "spotify": {
+    "track": "spotify:track:1bXXncvQipWmG8kOpQqaYM",
+    "album": "spotify:album:2VYn7cSOxVkl8MwEJr7UCF",
+    "image": "https://i.scdn.co/image/ab67616d0000b273519c0898f4958e2a628b4e2d"
+   }
+  },
+  "913c095a": {
+   "artist": "Ariana GRANDE",
+   "artist_display": "Ariana GRANDE",
+   "title": "Yes, And",
+   "positions": [
+    {
+     "value": 20,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 20.0,
+   "spotify": {
+    "track": "spotify:track:7gaA3wERFkFkgivjwbSvkG",
+    "album": "spotify:album:2B9amdrHDIKOoEiPUfZGtb",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736b0b6e20fdb1ee07de7e92d6"
+   }
+  },
+  "cdd10b9e": {
+   "artist": "Taylor SWIFT",
+   "artist_display": "Taylor SWIFT",
+   "title": "Is It Over Now",
+   "positions": [
+    {
+     "value": 22,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 22.0,
+   "spotify": {
+    "track": "spotify:track:1Iq8oo9XkmmvCQiGOfORiz",
+    "album": "spotify:album:64LU4c1nfjz1t4VnGhagcg",
+    "image": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac"
+   }
+  },
+  "d77e0bf0": {
+   "artist": "Miley CYRUS",
+   "artist_display": "Miley CYRUS",
+   "title": "Used To Be Young",
+   "positions": [
+    {
+     "value": 23,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 23.0,
+   "spotify": {
+    "track": "spotify:track:41WQUSINanQHfhfKpFDsms",
+    "album": "spotify:album:5DvJgsMLbaR1HmAI6VhfcQ",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5"
+   }
+  },
+  "45af06ad": {
+   "artist": "LOREEN",
+   "artist_display": "LOREEN",
+   "title": "Tattoo",
+   "positions": [
+    {
+     "value": 25,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 25.0,
+   "spotify": {
+    "track": "spotify:track:1DmW5Ep6ywYwxc2HMT5BG6",
+    "album": "spotify:album:0LRTS7FyYLppkDLOZT02Xp",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732b0ba87db609976eee193bd6"
+   }
+  },
+  "96140a01": {
+   "artist": "James ARTHUR",
+   "artist_display": "James ARTHUR",
+   "title": "Blindside",
+   "positions": [
+    {
+     "value": 26,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 26.0,
+   "spotify": {
+    "track": "spotify:track:423Lsgm49lKroRCCYcOsG5",
+    "album": "spotify:album:02muSEofPSAk276DCafUPb",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bb5dc73b242b7ef75b1bc192"
+   }
+  },
+  "46f0d03": {
+   "artist": "CASSO,RAYE,D-BLOCK EUROPE",
+   "artist_display": "CASSO & RAYE & D-BLOCK EUROPE",
+   "title": "Prada",
+   "positions": [
+    {
+     "value": 27,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 27.0,
+   "spotify": {
+    "track": "spotify:track:59NraMJsLaMCVtwXTSia8i",
+    "album": "spotify:album:5MU0RmBSpoSxOPYBfcobDc",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e4b7dccdfd54375ded9ccc5c"
+   }
+  },
+  "2fb60e4c": {
+   "artist": "Lost Frequencies,Tom GREGORY",
+   "artist_display": "Lost Frequencies & Tom GREGORY",
+   "title": "Dive",
+   "positions": [
+    {
+     "value": 28,
+     "datetime": "2024-02-10T03:09:59+00:00"
+    }
+   ],
+   "position_avg": 28.0,
+   "spotify": {
+    "track": "spotify:track:0CVXJyYIQPnZE2kAHdx2DP",
+    "album": "spotify:album:4kdsVtA4bh3j0E2H0rdUTI",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730ed817eff6ba362a49a34b40"
    }
   }
  }
