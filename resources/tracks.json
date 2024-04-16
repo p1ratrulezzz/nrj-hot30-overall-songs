@@ -1,5 +1,5 @@
 {
- "updated": "2024-04-15T04:11:23+00:00",
+ "updated": "2024-04-16T03:11:16+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -11997,9 +11997,13 @@
     {
      "value": 1,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 18,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 10.88888888888889,
+   "position_avg": 11.142857142857142,
    "spotify": {
     "track": "spotify:track:2grS8y9w2vVp7sDJ3RnSx9",
     "album": "spotify:album:2FSVbytdzBlR6SBT4AFewv",
@@ -13141,9 +13145,13 @@
     {
      "value": 11,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 17,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 11.3,
+   "position_avg": 11.818181818181818,
    "spotify": {
     "track": "spotify:track:5mjYQaktjmjcMKcUIcqz4s",
     "album": "spotify:album:18ogtNq9F7DmMkNYO6Xb4k",
@@ -13235,9 +13243,13 @@
     {
      "value": 2,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 10.88888888888889,
+   "position_avg": 10.1,
    "spotify": {
     "track": "spotify:track:5wtSei6pJpDEB1iKqPHhfU",
     "album": "spotify:album:5pTaRVLwZOFObIbRBubmeb",
@@ -13300,9 +13312,13 @@
     {
      "value": 15,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 10.846153846153847,
+   "position_avg": 10.642857142857142,
    "spotify": {
     "track": "spotify:track:5KTZgG84bKFGm53lhLtTqc",
     "album": "spotify:album:5asqLE8StjaHpMWSyjzo2D",
@@ -13402,9 +13418,13 @@
     {
      "value": 3,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 4,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 10.0,
+   "position_avg": 9.25,
    "spotify": {
     "track": "spotify:track:1CcLA0eaauck34YEIrvAAq",
     "album": "spotify:album:3vT1YpvKNkGVN3XE1f3kQY",
@@ -13447,9 +13467,13 @@
     {
      "value": 9,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 14,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 12.625,
+   "position_avg": 12.777777777777779,
    "spotify": {
     "track": "spotify:track:6usohdchdzW9oML7VC4Uhk",
     "album": "spotify:album:5QMiub2LonMqxB7dhtbPlX",
@@ -13543,9 +13567,13 @@
     {
      "value": 16,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 8.6,
+   "position_avg": 10.5,
    "spotify": {
     "track": "spotify:track:31OmW9ggGpVuWW1Wv2AaHR",
     "album": "spotify:album:0IjGrJuTiIEn0ooKLAsOMc",
@@ -13580,9 +13608,13 @@
     {
      "value": 26,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 28,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 14.5,
+   "position_avg": 16.428571428571427,
    "spotify": {
     "track": "spotify:track:4xhsWYTOGcal8zt0J161CU",
     "album": "spotify:album:6VCO0fDBGbRW8mCEvV95af",
@@ -13745,9 +13777,13 @@
     {
      "value": 21,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 26,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 13.142857142857142,
+   "position_avg": 14.75,
    "spotify": {
     "track": "spotify:track:0JwXH0xA7o7HUfVfyFh1H6",
     "album": "spotify:album:0fO4oE2tNqegemqaq8byqQ",
@@ -13790,9 +13826,13 @@
     {
      "value": 20,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 19,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 15.375,
+   "position_avg": 15.777777777777779,
    "spotify": {
     "track": "spotify:track:4NUmZ5svM1Bbmaz5udqUeJ",
     "album": "spotify:album:7msKLkViyWdF6X3QdlC6wK",
@@ -14198,9 +14238,13 @@
     {
      "value": 13,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 16,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 17.714285714285715,
+   "position_avg": 17.5,
    "spotify": {
     "track": "spotify:track:5orcBp4bfZpJeaf7lXc2Zy",
     "album": "spotify:album:3ShZxa7ntVznDhTLISXLY9",
@@ -14231,9 +14275,13 @@
     {
      "value": 8,
      "datetime": "2024-04-02T03:11:10+00:00"
+    },
+    {
+     "value": 6,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 17.0,
+   "position_avg": 15.166666666666666,
    "spotify": {
     "track": "spotify:track:7v4lL0VxQV8yTv29Tpf2sH",
     "album": "spotify:album:4FUeHNijvgnMa27510RDC2",
@@ -14260,9 +14308,13 @@
     {
      "value": 4,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 2,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 15.75,
+   "position_avg": 13.0,
    "spotify": {
     "track": "spotify:track:6tNQ70jh4OwmPGpYy6R2o9",
     "album": "spotify:album:29aSKB1qPEbN0Qf9OPSQpw",
@@ -14285,9 +14337,13 @@
     {
      "value": 19,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 15,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 21.666666666666668,
+   "position_avg": 20.0,
    "spotify": {
     "track": "spotify:track:0QosomGFiJYOxj2ViZfqng",
     "album": "spotify:album:3G89Vbw7shdM38VCVsFdoy",
@@ -14310,9 +14366,13 @@
     {
      "value": 18,
      "datetime": "2024-04-02T03:11:10+00:00"
+    },
+    {
+     "value": 13,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 22.666666666666668,
+   "position_avg": 20.25,
    "spotify": {
     "track": "spotify:track:4XFJmvM7x2Wkz6kXJr5LmO",
     "album": "spotify:album:25Bk5lhRcppzuyAqaqXuws",
@@ -14356,9 +14416,13 @@
     {
      "value": 14,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 15.0,
+   "position_avg": 13.75,
    "spotify": {
     "track": "spotify:track:4luohviQijMNU3yWu8xUMr",
     "album": "spotify:album:2MGAPw592ly4ydVblvcMqr",
@@ -14381,9 +14445,13 @@
     {
      "value": 17,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 12,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 18.0,
+   "position_avg": 16.5,
    "spotify": {
     "track": "spotify:track:7hHrs2q5c5rtzHLJ2DKHTT",
     "album": "spotify:album:5IvpvVd9LKgHACcUSHL5Y8",
@@ -14406,9 +14474,13 @@
     {
      "value": 12,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 9,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 18.666666666666668,
+   "position_avg": 16.25,
    "spotify": {
     "track": "spotify:track:2UrKwpJwcoOlYZpooWD1hY",
     "album": "spotify:album:3sqC2sXZc0b9r7WM9z3784",
@@ -14427,6 +14499,10 @@
     {
      "value": 10,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 11,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
    "position_avg": 11.0,
@@ -14448,9 +14524,13 @@
     {
      "value": 6,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 1,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 14.5,
+   "position_avg": 10.0,
    "spotify": {
     "track": "spotify:track:0h3Xy4V4apMraB5NuM8U7Z",
     "album": "spotify:album:2HxzXLKO0AvkScWYHSspQc",
@@ -14482,9 +14562,13 @@
     {
      "value": 25,
      "datetime": "2024-04-02T03:11:10+00:00"
+    },
+    {
+     "value": 23,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 25.0,
+   "position_avg": 24.0,
    "spotify": {
     "track": "spotify:track:5LWmVBXWFwspwJ77mecPVN",
     "album": "spotify:album:44hrwklx8fo4sus11mpV30",
@@ -14499,9 +14583,13 @@
     {
      "value": 28,
      "datetime": "2024-04-02T03:11:10+00:00"
+    },
+    {
+     "value": 27,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 28.0,
+   "position_avg": 27.5,
    "spotify": {
     "track": "spotify:track:0PBTlQ84CBJF0tBnKGmQa6",
     "album": "spotify:album:7v4sqd0NZ9Fm8HnwCcCGIs",
@@ -14520,9 +14608,13 @@
     {
      "value": 29,
      "datetime": "2024-04-09T03:11:07+00:00"
+    },
+    {
+     "value": 25,
+     "datetime": "2024-04-16T03:11:15+00:00"
     }
    ],
-   "position_avg": 29.5,
+   "position_avg": 28.0,
    "spotify": {
     "track": "spotify:track:4beKzTMCCMDizozv4Y3Shj",
     "album": "spotify:album:1DCiXnF1Z9XX4zxYCFytSX",
@@ -14544,6 +14636,40 @@
     "track": "spotify:track:2FdrRql2ltOBghZNvwcNrn",
     "album": "spotify:album:6YHrzZ7O74d7QZg2EkIURl",
     "image": "https://i.scdn.co/image/ab67616d0000b2730e9a567ba6e89d404ef95a7c"
+   }
+  },
+  "881c0951": {
+   "artist": "Felix JAEHN",
+   "artist_display": "Felix JAEHN",
+   "title": "Waking Up",
+   "positions": [
+    {
+     "value": 21,
+     "datetime": "2024-04-16T03:11:15+00:00"
+    }
+   ],
+   "position_avg": 21.0,
+   "spotify": {
+    "track": "spotify:track:1RSIW8uEXUygC3LAFKjjvp",
+    "album": "spotify:album:2YjOGKzfAKHtqk4nXjQR8E",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c860f0f7c02d4fc6756900f2"
+   }
+  },
+  "9bf10a12": {
+   "artist": "Benjamin Ingrosso",
+   "artist_display": "Benjamin Ingrosso",
+   "title": "Kite",
+   "positions": [
+    {
+     "value": 29,
+     "datetime": "2024-04-16T03:11:15+00:00"
+    }
+   ],
+   "position_avg": 29.0,
+   "spotify": {
+    "track": "spotify:track:0irVirJrUjHFk3ywECVsGT",
+    "album": "spotify:album:3g4q3F07QmUyPBzWlMXhq4",
+    "image": "https://i.scdn.co/image/ab67616d0000b27384c00ac378d2bd0a147250d7"
    }
   }
  }
