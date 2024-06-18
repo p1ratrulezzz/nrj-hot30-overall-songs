@@ -1,5 +1,5 @@
 {
- "updated": "2024-06-17T03:03:10+00:00",
+ "updated": "2024-06-18T03:03:20+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -13026,9 +13026,13 @@
     {
      "value": 23,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 21,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 13.736842105263158,
+   "position_avg": 14.1,
    "spotify": {
     "track": "spotify:track:6Iz6nezNRuUZNgSiJ3ghwl",
     "album": "spotify:album:4YbieCk1Kxz8RhpaiMxeHF",
@@ -13319,9 +13323,13 @@
     {
      "value": 19,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 28,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 11.941176470588236,
+   "position_avg": 12.833333333333334,
    "spotify": {
     "track": "spotify:track:5wtSei6pJpDEB1iKqPHhfU",
     "album": "spotify:album:5pTaRVLwZOFObIbRBubmeb",
@@ -13627,9 +13635,13 @@
     {
      "value": 25,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 29,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 13.705882352941176,
+   "position_avg": 14.555555555555555,
    "spotify": {
     "track": "spotify:track:6usohdchdzW9oML7VC4Uhk",
     "album": "spotify:album:5QMiub2LonMqxB7dhtbPlX",
@@ -13759,9 +13771,13 @@
     {
      "value": 20,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 16,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 16.785714285714285,
+   "position_avg": 16.733333333333334,
    "spotify": {
     "track": "spotify:track:31OmW9ggGpVuWW1Wv2AaHR",
     "album": "spotify:album:0IjGrJuTiIEn0ooKLAsOMc",
@@ -14530,9 +14546,13 @@
     {
      "value": 24,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 26,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 19.875,
+   "position_avg": 20.235294117647058,
    "spotify": {
     "track": "spotify:track:5orcBp4bfZpJeaf7lXc2Zy",
     "album": "spotify:album:3ShZxa7ntVznDhTLISXLY9",
@@ -14591,9 +14611,13 @@
     {
      "value": 2,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 10.0,
+   "position_avg": 9.461538461538462,
    "spotify": {
     "track": "spotify:track:7v4lL0VxQV8yTv29Tpf2sH",
     "album": "spotify:album:4FUeHNijvgnMa27510RDC2",
@@ -14640,9 +14664,13 @@
     {
      "value": 12,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 13,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 10.444444444444445,
+   "position_avg": 10.7,
    "spotify": {
     "track": "spotify:track:6tNQ70jh4OwmPGpYy6R2o9",
     "album": "spotify:album:29aSKB1qPEbN0Qf9OPSQpw",
@@ -14808,9 +14836,13 @@
     {
      "value": 8,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 11.583333333333334,
+   "position_avg": 11.461538461538462,
    "spotify": {
     "track": "spotify:track:4luohviQijMNU3yWu8xUMr",
     "album": "spotify:album:2MGAPw592ly4ydVblvcMqr",
@@ -14918,9 +14950,13 @@
     {
      "value": 6,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 4,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 8.4,
+   "position_avg": 8.0,
    "spotify": {
     "track": "spotify:track:2UrKwpJwcoOlYZpooWD1hY",
     "album": "spotify:album:3sqC2sXZc0b9r7WM9z3784",
@@ -14967,9 +15003,13 @@
     {
      "value": 21,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 27,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 10.11111111111111,
+   "position_avg": 11.8,
    "spotify": {
     "track": "spotify:track:6v4ABPB255HDSWyIj3S9Wn",
     "album": "spotify:album:3VI38DDpgfFMVPrUi69V5B",
@@ -15004,9 +15044,13 @@
     {
      "value": 7,
      "datetime": "2024-06-04T03:03:57+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 7.166666666666667,
+   "position_avg": 7.285714285714286,
    "spotify": {
     "track": "spotify:track:0h3Xy4V4apMraB5NuM8U7Z",
     "album": "spotify:album:2HxzXLKO0AvkScWYHSspQc",
@@ -15045,9 +15089,13 @@
     {
      "value": 10,
      "datetime": "2024-06-04T03:03:57+00:00"
+    },
+    {
+     "value": 9,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 12.571428571428571,
+   "position_avg": 12.125,
    "spotify": {
     "track": "spotify:track:51ZQ1vr10ffzbwIjDCwqm4",
     "album": "spotify:album:5EYKrEDnKhhcNxGedaRQeK",
@@ -15098,9 +15146,13 @@
     {
      "value": 27,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 24,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 22.9,
+   "position_avg": 23.0,
    "spotify": {
     "track": "spotify:track:5LWmVBXWFwspwJ77mecPVN",
     "album": "spotify:album:44hrwklx8fo4sus11mpV30",
@@ -15192,9 +15244,13 @@
     {
      "value": 13,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 22,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 21.90909090909091,
+   "position_avg": 21.916666666666668,
    "spotify": {
     "track": "spotify:track:4beKzTMCCMDizozv4Y3Shj",
     "album": "spotify:album:1DCiXnF1Z9XX4zxYCFytSX",
@@ -15316,9 +15372,13 @@
     {
      "value": 4,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 6,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 16.428571428571427,
+   "position_avg": 15.125,
    "spotify": {
     "track": "spotify:track:5Jpz4nv8nA6FIYO5gEyQa2",
     "album": "spotify:album:3Ku8LDPYg53Kh59amfFWjL",
@@ -15382,9 +15442,13 @@
     {
      "value": 3,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 2,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 6.666666666666667,
+   "position_avg": 6.0,
    "spotify": {
     "track": "spotify:track:2GxrNKugF82CnoRFbQfzPf",
     "album": "spotify:album:5HIWDdg3g9CTOtnevKDl1z",
@@ -15419,9 +15483,13 @@
     {
      "value": 5,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 12,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 14.166666666666666,
+   "position_avg": 13.857142857142858,
    "spotify": {
     "track": "spotify:track:05P2XnfYsMtbvajPRcLTzO",
     "album": "spotify:album:5Qz6ewHWcFWlQ89R0aeTDb",
@@ -15456,9 +15524,13 @@
     {
      "value": 17,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 15,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 18.666666666666668,
+   "position_avg": 18.142857142857142,
    "spotify": {
     "track": "spotify:track:3AxfLI7PFjoe2voK0bmXjD",
     "album": "spotify:album:7wwURNGmjYqXm1XRA4aIRf",
@@ -15489,9 +15561,13 @@
     {
      "value": 28,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 25,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 28.4,
+   "position_avg": 27.833333333333332,
    "spotify": {
     "track": "spotify:track:601pOTGkiTqGFpAtphsZDx",
     "album": "spotify:album:3egxqN0wJ8CMeVbtRZYN3s",
@@ -15518,9 +15594,13 @@
     {
      "value": 15,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 17,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 18.0,
+   "position_avg": 17.8,
    "spotify": {
     "track": "spotify:track:377uEWjxVKksQDlwDqaIfx",
     "album": "spotify:album:3uYWY4pRKn0fbVQJNrfUed",
@@ -15543,9 +15623,13 @@
     {
      "value": 29,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 30,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 27.333333333333332,
+   "position_avg": 28.0,
    "spotify": {
     "track": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
     "album": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt",
@@ -15568,9 +15652,13 @@
     {
      "value": 16,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 5,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 21.666666666666668,
+   "position_avg": 17.5,
    "spotify": {
     "track": "spotify:track:4QfikoJtCEiOj7G5R9m3sP",
     "album": "spotify:album:2Cqf3izEp75CqTKgul5Mi1",
@@ -15606,9 +15694,13 @@
     {
      "value": 9,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 7,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 15.0,
+   "position_avg": 12.333333333333334,
    "spotify": {
     "track": "spotify:track:2qSkIjg1o9h3YT9RAgYN75",
     "album": "spotify:album:5quMTd5zeI9yW5UDua8wS4",
@@ -15623,9 +15715,13 @@
     {
      "value": 26,
      "datetime": "2024-06-04T03:03:57+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 26.0,
+   "position_avg": 23.0,
    "spotify": {
     "track": "spotify:track:2uqYupMHANxnwgeiXTZXzd",
     "album": "spotify:album:40HsqPqeSR9Xe3IyAJWr6e",
@@ -15644,13 +15740,34 @@
     {
      "value": 22,
      "datetime": "2024-06-11T03:03:15+00:00"
+    },
+    {
+     "value": 19,
+     "datetime": "2024-06-18T03:03:20+00:00"
     }
    ],
-   "position_avg": 25.5,
+   "position_avg": 23.333333333333332,
    "spotify": {
     "track": "spotify:track:1LY3GhF0zxIVgbYEQjCbUO",
     "album": "spotify:album:4AaJMesGEVwF7QpWMSG29p",
     "image": "https://i.scdn.co/image/ab67616d0000b2734c754a6761367bb96513c68c"
+   }
+  },
+  "61b01c3f": {
+   "artist": "PURPLE DISCO MACHINE,Benjamin Ingrosso,Nile RODGERS,Shenseea",
+   "artist_display": "PURPLE DISCO MACHINE & Benjamin Ingrosso & Nile RODGERS & Shenseea",
+   "title": "Honey Boy",
+   "positions": [
+    {
+     "value": 23,
+     "datetime": "2024-06-18T03:03:20+00:00"
+    }
+   ],
+   "position_avg": 23.0,
+   "spotify": {
+    "track": "spotify:track:1NpIUD4KqHaMT91kw0YV40",
+    "album": "spotify:album:0WWjvPdLmnwYrTi03XJ9ib",
+    "image": "https://i.scdn.co/image/ab67616d0000b27351254e0f220bfed7028497ac"
    }
   }
  }
