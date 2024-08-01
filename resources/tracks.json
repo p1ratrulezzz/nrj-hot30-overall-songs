@@ -1,5 +1,5 @@
 {
- "updated": "2024-07-31T03:03:11+00:00",
+ "updated": "2024-08-01T03:03:17+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -16536,6 +16536,125 @@
     "track": "spotify:track:4lbBiqC2alVR4ooruZSe0o",
     "album": "spotify:album:24XgXT0x8aojo4VyU4OxxO",
     "image": "https://i.scdn.co/image/ab67616d0000b273de6a124e7ec3e840c92ad394"
+   }
+  },
+  "93631040": {
+   "artist": "Kygo feat. Zak Abel,Nile Rodgers",
+   "artist_display": "Kygo feat. Zak Abel & Nile Rodgers",
+   "title": "For Life",
+   "positions": [
+    {
+     "value": 3,
+     "datetime": "2024-08-01T03:03:14+00:00"
+    }
+   ],
+   "position_avg": 3.0,
+   "spotify": {
+    "track": "spotify:track:4QfikoJtCEiOj7G5R9m3sP",
+    "album": "spotify:album:2Cqf3izEp75CqTKgul5Mi1",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737198e498826796ff81f560a7"
+   }
+  },
+  "f31c0cd5": {
+   "artist": "Disturbed",
+   "artist_display": "Disturbed",
+   "title": "The Sound of Silence",
+   "positions": [
+    {
+     "value": 7,
+     "datetime": "2024-08-01T03:03:14+00:00"
+    }
+   ],
+   "position_avg": 7.0,
+   "spotify": {
+    "track": "spotify:track:1LY3GhF0zxIVgbYEQjCbUO",
+    "album": "spotify:album:4AaJMesGEVwF7QpWMSG29p",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734c754a6761367bb96513c68c"
+   }
+  },
+  "77101490": {
+   "artist": "Ariana Grande",
+   "artist_display": "Ariana Grande",
+   "title": "we can t be friends (wait for your love)",
+   "positions": [
+    {
+     "value": 9,
+     "datetime": "2024-08-01T03:03:14+00:00"
+    }
+   ],
+   "position_avg": 9.0,
+   "spotify": {
+    "track": "spotify:track:2TJYfqZ24XmBt3lKsfQj4N",
+    "album": "spotify:album:1kY0kHkLtxqZb0tBqPsIx4",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c5bce200a907e3b21bf20587"
+   }
+  },
+  "963910ba": {
+   "artist": "Taylor Swift feat. Post Malone",
+   "artist_display": "Taylor Swift feat. Post Malone",
+   "title": "Fortnight",
+   "positions": [
+    {
+     "value": 10,
+     "datetime": "2024-08-01T03:03:14+00:00"
+    }
+   ],
+   "position_avg": 10.0,
+   "spotify": {
+    "track": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
+    "album": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33"
+   }
+  },
+  "36e413dd": {
+   "artist": "Purple Disco Machine,Benjamin Ingrosso",
+   "artist_display": "Purple Disco Machine & Benjamin Ingrosso",
+   "title": "Honey Boy",
+   "positions": [
+    {
+     "value": 14,
+     "datetime": "2024-08-01T03:03:14+00:00"
+    }
+   ],
+   "position_avg": 14.0,
+   "spotify": {
+    "track": "spotify:track:1NpIUD4KqHaMT91kw0YV40",
+    "album": "spotify:album:0WWjvPdLmnwYrTi03XJ9ib",
+    "image": "https://i.scdn.co/image/ab67616d0000b27351254e0f220bfed7028497ac"
+   }
+  },
+  "3e191380": {
+   "artist": "Calvin Harris,Rag'N'Bone Man",
+   "artist_display": "Calvin Harris & Rag'N'Bone Man",
+   "title": "Lovers In A Past Life",
+   "positions": [
+    {
+     "value": 16,
+     "datetime": "2024-08-01T03:03:14+00:00"
+    }
+   ],
+   "position_avg": 16.0,
+   "spotify": {
+    "track": "spotify:track:6v4ABPB255HDSWyIj3S9Wn",
+    "album": "spotify:album:3VI38DDpgfFMVPrUi69V5B",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bb08484f74ca64acd08882a1"
+   }
+  },
+  "cd891636": {
+   "artist": "Don Omar,Lucenzo,Tiesto",
+   "artist_display": "Don Omar & Lucenzo & Tiesto",
+   "title": "Danza Kuduro (Ti\u00ebsto Remix)",
+   "positions": [
+    {
+     "value": 20,
+     "datetime": "2024-08-01T03:03:14+00:00"
+    }
+   ],
+   "position_avg": 20.0,
+   "spotify": {
+    "track": "spotify:track:7mdDd1a4TtNGqDW1lXc14o",
+    "album": "spotify:album:6Kd4z1ibE3aDC6lXOs3eMV",
+    "image": "https://i.scdn.co/image/ab67616d0000b27317a762165593b12a0aba41e9"
    }
   }
  }

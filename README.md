@@ -16,9 +16,11 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 
 |Position||Track||
 |---|---|--------|---|
+|3(3)|<img src="https://i.scdn.co/image/ab67616d0000b2737198e498826796ff81f560a7" />|Kygo feat. Zak Abel & Nile Rodgers - For Life|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP)|
 |4(1)🔻|<img src="https://i.scdn.co/image/ab67616d0000b2732f479a6c1825c1f29e0a3d49" />|David GUETTA & OneRepublic - I Don't Wanna Wait|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq)|
 |4(4)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738" />|ARTEMAS - I Like The Way You Kiss Me|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf)|
 |7(13)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273f1462ebfec5f96421f44dcd3" />|ATB & TOPIC & A7S - Your Love (9 PM)|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)|
+|7(7)|<img src="https://i.scdn.co/image/ab67616d0000b2734c754a6761367bb96513c68c" />|Disturbed - The Sound of Silence|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)|
 |7(2)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5" />|Sabrina CARPENTER - Espresso|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)|
 |7(16)⬆| |Nessa BARRETT - Dying On The Inside| |
 |8(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27328eec1bed4fe754299ea1e96" />|SHOUSE - Love Tonight|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP)|
@@ -27,6 +29,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |8(13)⬆| |Jason DERULO & DE LA GHETTO & Sofia REYES - 1, 2, 3| |
 |8(25)⬆| |The FUTURE X - This Kind Of Love| |
 |9(30)⬆| |SHAKIRA & Rauw ALEJANDRO - Te Felicito| |
+|9(9)|<img src="https://i.scdn.co/image/ab67616d0000b273c5bce200a907e3b21bf20587" />|Ariana Grande - we can t be friends (wait for your love)|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2TJYfqZ24XmBt3lKsfQj4N)|
 |9(23)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27314a5222ca8fdf13d5c050496" />|ED SHEERAN - Bad Habits|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE)|
 |9(22)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273790260cc86fd7b2678bb204d" />|DUA LIPA - Training Season|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2UrKwpJwcoOlYZpooWD1hY)|
 |9(23)⬆| |Elton JOHN & DUA LIPA - Cold Heart (PNAU rmx)| |
@@ -35,6 +38,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |9(25)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273ad3e41cac8ba2744f7c65298" />|CASSETTE - CASSETTE - My Way|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0apbp87wAygaNTpkqFBbZ6)|
 |9(11)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2736131b5ea29f95c9237e0862f" />|TIESTO & 21 SAVAGE & BIA - Both|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft)|
 |9(18)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273eea93a629030525d2297ab5e" />|Lost Frequencies & BASTILLE - Head Down|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH)|
+|10(10)|<img src="https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33" />|Taylor Swift feat. Post Malone - Fortnight|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m)|
 |10(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27360b16fc0b0cc5948f2173511" />|ALOK & Sofi TUKKER & INNA - It Don't Matter|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s)|
 |10(5)🔻|<img src="https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb" />|Dasha - Austin|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd)|
 |10(22)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27302b540b26162efc82fc6002b" />|ALMA - Summer Really Hurt Us|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/2JUvLynhFJsuEDZdJarBBH)|
@@ -93,6 +97,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |13(26)🔻| |Olivia ADDAMS - Fool Me Once| |
 |13(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2733e349eb68490a95dc4d233fd" />|HUGEL & Stefy DE CICCO & Hugo CANTARRA & Nikol APATINI - 4 To The Floor|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/55AQHvuv5KtjehVJ6oHe4k)|
 |13(24)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8" />|Tate MCRAE - Greedy|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t)|
+|14(14)|<img src="https://i.scdn.co/image/ab67616d0000b27351254e0f220bfed7028497ac" />|Purple Disco Machine & Benjamin Ingrosso - Honey Boy|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40)|
 |14(9)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2736a5048685cdbd998373076e6" />|MARSHMELLO & PINK & STING - Dreaming|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ)|
 |14(23)⬆|<img src="https://i.scdn.co/image/ab67616d0000b2735fb65297a8df44de8e45482c" />|IMANBEK & Sean PAUL & Sofia REYES - Dancing On Dangerous|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/25lbf97ngD9roqj74IRnAU)|
 |14(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273a152de6438e748b4c0cddff7" />|Alan WALKER & SORANA - Catch Me If You Can|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM)|
@@ -119,6 +124,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |15(19)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273bc8a28fcd97c1b640c439e92" />|Zara LARSSON - You Love Who You Love|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO)|
 |15(24)⬆|<img src="https://i.scdn.co/image/ab67616d0000b27302d82cf34fefe6736718acd1" />|GAYLE - Abcdefu|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL)|
 |16(20)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273587d488364806d8961317390" />|ONE REPUBLIC - Runaway|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns)|
+|16(16)|<img src="https://i.scdn.co/image/ab67616d0000b273bb08484f74ca64acd08882a1" />|Calvin Harris & Rag'N'Bone Man - Lovers In A Past Life|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn)|
 |16(30)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273982cea9a6b4407c27df8742f" />|Jax JONES & Calum SCOTT - Whistle|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1efbPirva8Iq3tTQuyT8Bw)|
 |16(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273dfb7fffec83a48f0548116f1" />|HOLY MOLLY - Shot A Friend|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/27yUNsQo2CPPokNw69M23X)|
 |16(25)⬆| |Travis SCOTT & HVME - Goosebumps (rmx)| |
@@ -184,6 +190,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 |20(29)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273c58e22815048f8dfb1aa8bd0" />|Calvin HARRIS & Ellie GOULDING - Miracle|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ)|
 |20(22)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273da6090501a3b5467e6f715e6" />|Justin TIMBERLAKE - Selfish|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng)|
 |20(11)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273e410d07dbb39fc12b55f8458" />|Shaboozey & David GUETTA - A Bar Song (Tipsy) [Remix]|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr)|
+|20(20)|<img src="https://i.scdn.co/image/ab67616d0000b27317a762165593b12a0aba41e9" />|Don Omar & Lucenzo & Tiesto - Danza Kuduro (Tiësto Remix)|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o)|
 |20(27)🔻|<img src="https://i.scdn.co/image/ab67616d0000b273d84d7d58bd62dbb833442211" />|Tom WALKER - Something Beautiful|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/0dNc4kZNk8JrdQCmrVPBqI)|
 |20(29)🔻|<img src="https://i.scdn.co/image/ab67616d0000b27327f0e24c9d7b414e6b17f3e6" />|OTNICKA - Stronger|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/39kRrigwHt5zPjzUPquUZp)|
 |20(13)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273f23cc4c07da7aee2a425b1e8" />|Ray DALTON - All We Got|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5LWmVBXWFwspwJ77mecPVN)|
