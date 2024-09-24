@@ -1,5 +1,5 @@
 {
- "updated": "2024-09-23T03:07:27+00:00",
+ "updated": "2024-09-24T03:07:22+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -14671,9 +14671,13 @@
     {
      "value": 16,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 27,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 11.625,
+   "position_avg": 12.24,
    "spotify": {
     "track": "spotify:track:7v4lL0VxQV8yTv29Tpf2sH",
     "album": "spotify:album:4FUeHNijvgnMa27510RDC2",
@@ -14768,9 +14772,13 @@
     {
      "value": 19,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 17,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 16.047619047619047,
+   "position_avg": 16.09090909090909,
    "spotify": {
     "track": "spotify:track:6tNQ70jh4OwmPGpYy6R2o9",
     "album": "spotify:album:29aSKB1qPEbN0Qf9OPSQpw",
@@ -15736,9 +15744,13 @@
     {
      "value": 6,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 17.166666666666668,
+   "position_avg": 16.789473684210527,
    "spotify": {
     "track": "spotify:track:5Jpz4nv8nA6FIYO5gEyQa2",
     "album": "spotify:album:3Ku8LDPYg53Kh59amfFWjL",
@@ -15797,9 +15809,13 @@
     {
      "value": 9,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 4.75,
+   "position_avg": 5.0,
    "spotify": {
     "track": "spotify:track:331l3xABO0HMr1Kkyh2LZq",
     "album": "spotify:album:0wCLHkBRKcndhMQQpeo8Ji",
@@ -15874,9 +15890,13 @@
     {
      "value": 12,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 11,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 6.25,
+   "position_avg": 6.529411764705882,
    "spotify": {
     "track": "spotify:track:2GxrNKugF82CnoRFbQfzPf",
     "album": "spotify:album:5HIWDdg3g9CTOtnevKDl1z",
@@ -16126,9 +16146,13 @@
     {
      "value": 17,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 14,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 18.733333333333334,
+   "position_avg": 18.4375,
    "spotify": {
     "track": "spotify:track:377uEWjxVKksQDlwDqaIfx",
     "album": "spotify:album:3uYWY4pRKn0fbVQJNrfUed",
@@ -16355,9 +16379,13 @@
     {
      "value": 5,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 7.916666666666667,
+   "position_avg": 7.538461538461538,
    "spotify": {
     "track": "spotify:track:2uqYupMHANxnwgeiXTZXzd",
     "album": "spotify:album:40HsqPqeSR9Xe3IyAJWr6e",
@@ -16396,9 +16424,13 @@
     {
      "value": 7,
      "datetime": "2024-07-30T03:03:20+00:00"
+    },
+    {
+     "value": 6,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 16.285714285714285,
+   "position_avg": 15.0,
    "spotify": {
     "track": "spotify:track:1LY3GhF0zxIVgbYEQjCbUO",
     "album": "spotify:album:4AaJMesGEVwF7QpWMSG29p",
@@ -16482,9 +16514,13 @@
     {
      "value": 8,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 15,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 9.555555555555555,
+   "position_avg": 10.1,
    "spotify": {
     "track": "spotify:track:1Qvo9ZyBWoedUiOc0zTCbm",
     "album": "spotify:album:3bHBja0WHDXuhZjFzWFImc",
@@ -16600,9 +16636,13 @@
     {
      "value": 15,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 19,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 16.76923076923077,
+   "position_avg": 16.928571428571427,
    "spotify": {
     "track": "spotify:track:5OFVzqSeFxGpvDGyHvVeLj",
     "album": "spotify:album:116jZe8fEmfjKBh4d8ZcDO",
@@ -16727,9 +16767,13 @@
     {
      "value": 24,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 22,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 16.0,
+   "position_avg": 16.545454545454547,
    "spotify": {
     "track": "spotify:track:5AJ9hqTS2wcFQCELCFRO7A",
     "album": "spotify:album:2Z1gnUf3nbn6DtwZSUIH54",
@@ -16821,9 +16865,13 @@
     {
      "value": 3,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 5,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 13.8,
+   "position_avg": 13.0,
    "spotify": {
     "track": "spotify:track:5yr1JLt5hokAyU8NBr75jr",
     "album": "spotify:album:0oNjcrEbdpkDuDYypawNah",
@@ -16932,9 +16980,13 @@
     {
      "value": 14,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 23,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 17.75,
+   "position_avg": 18.333333333333332,
    "spotify": {
     "track": "spotify:track:1cZ3mzkuWrAP1uXSWekuLD",
     "album": "spotify:album:2hF853Cnu1FKZ2D9oiwu8G",
@@ -17018,9 +17070,13 @@
     {
      "value": 10,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 7,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 5.875,
+   "position_avg": 6.0,
    "spotify": {
     "track": "spotify:track:4QfikoJtCEiOj7G5R9m3sP",
     "album": "spotify:album:2Cqf3izEp75CqTKgul5Mi1",
@@ -17290,9 +17346,13 @@
     {
      "value": 29,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 30,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 25.5,
+   "position_avg": 26.4,
    "spotify": {
     "track": "spotify:track:7hDvcL88hXoofWcxPGmBpW",
     "album": "spotify:album:0aFSLGHaCuEfBPyF6AFofM",
@@ -17315,9 +17375,13 @@
     {
      "value": 11,
      "datetime": "2024-09-10T03:04:08+00:00"
+    },
+    {
+     "value": 12,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 16.0,
+   "position_avg": 15.0,
    "spotify": {
     "track": "spotify:track:1BJJbSX6muJVF2AK7uH1x4",
     "album": "spotify:album:4M8ThNHbNjda2cPwL8XZHS",
@@ -17344,9 +17408,13 @@
     {
      "value": 22,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 25.25,
+   "position_avg": 24.2,
    "spotify": {
     "track": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
     "album": "spotify:album:7aJuG4TFXa2hmE4z1yxc3n",
@@ -17365,6 +17433,10 @@
     {
      "value": 30,
      "datetime": "2024-09-10T03:04:08+00:00"
+    },
+    {
+     "value": 28,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
    "position_avg": 28.0,
@@ -17390,9 +17462,13 @@
     {
      "value": 27,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 9,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 28.333333333333332,
+   "position_avg": 23.5,
    "spotify": {
     "track": "spotify:track:7tI8dRuH2Yc6RuoTjxo4dU",
     "album": "spotify:album:15XcLhiVMlSOipUddTNDnr",
@@ -17432,13 +17508,51 @@
     {
      "value": 23,
      "datetime": "2024-09-17T03:03:50+00:00"
+    },
+    {
+     "value": 16,
+     "datetime": "2024-09-24T03:07:21+00:00"
     }
    ],
-   "position_avg": 26.0,
+   "position_avg": 22.666666666666668,
    "spotify": {
     "track": "spotify:track:3oTYv0yShT4sjuPncoUXfK",
     "album": "spotify:album:06mXfvDsRZNfnsGZvX2zpb",
     "image": "https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d"
+   }
+  },
+  "58850753": {
+   "artist": "Younotus",
+   "artist_display": "Younotus",
+   "title": "All In",
+   "positions": [
+    {
+     "value": 24,
+     "datetime": "2024-09-24T03:07:21+00:00"
+    }
+   ],
+   "position_avg": 24.0,
+   "spotify": {
+    "track": "spotify:track:7qog6LJrOFEyELxP00x2lc",
+    "album": "spotify:album:67VEaL9NMeOlIxz6V2vMvl",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ccc021cfc2d7bf7a8fe6f9df"
+   }
+  },
+  "bee6111c": {
+   "artist": "Hugel,Topic,Arash feat. Daecolm",
+   "artist_display": "Hugel & Topic & Arash feat. Daecolm",
+   "title": "I Adore You",
+   "positions": [
+    {
+     "value": 29,
+     "datetime": "2024-09-24T03:07:21+00:00"
+    }
+   ],
+   "position_avg": 29.0,
+   "spotify": {
+    "track": "spotify:track:5nPbKG04fhLkIAjcPFaZq7",
+    "album": "spotify:album:5MrdEMJrBnauBJsd1nYY00",
+    "image": "https://i.scdn.co/image/ab67616d0000b27305005dc483e9f8a73ccc6d3d"
    }
   }
  }
