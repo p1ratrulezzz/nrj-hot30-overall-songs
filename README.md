@@ -16,6 +16,7 @@ The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
 
 |Position||Track||
 |---|---|--------|---|
+|1(1)| |None - | |
 |7(13)⬆|<img src="https://i.scdn.co/image/ab67616d0000b273f1462ebfec5f96421f44dcd3" />|ATB & TOPIC & A7S - Your Love (9 PM)|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx)|
 |7(7)🔻|<img src="https://i.scdn.co/image/ab67616d0000b2734c754a6761367bb96513c68c" />|Disturbed - The Sound of Silence|[<img src="/images/spotify_icon.svg?raw=true" alt="Listen on spotify">](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO)|
 |7(16)⬆| |Nessa BARRETT - Dying On The Inside| |
