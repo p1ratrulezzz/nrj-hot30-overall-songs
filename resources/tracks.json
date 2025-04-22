@@ -1,5 +1,5 @@
 {
- "updated": "2025-04-21T03:19:59+00:00",
+ "updated": "2025-04-22T03:17:58+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -18520,9 +18520,13 @@
     {
      "value": 6,
      "datetime": "2025-04-08T03:15:38+00:00"
+    },
+    {
+     "value": 5,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 11.615384615384615,
+   "position_avg": 11.37037037037037,
    "spotify": {
     "track": "spotify:track:3oTYv0yShT4sjuPncoUXfK",
     "album": "spotify:album:06mXfvDsRZNfnsGZvX2zpb",
@@ -18670,9 +18674,13 @@
     {
      "value": 14,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 19,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 13.727272727272727,
+   "position_avg": 13.956521739130435,
    "spotify": {
     "track": "spotify:track:5nPbKG04fhLkIAjcPFaZq7",
     "album": "spotify:album:5MrdEMJrBnauBJsd1nYY00",
@@ -19730,9 +19738,13 @@
     {
      "value": 3,
      "datetime": "2025-04-01T03:21:48+00:00"
+    },
+    {
+     "value": 4,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 6.647058823529412,
+   "position_avg": 6.5,
    "spotify": {
     "track": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
     "album": "spotify:album:2IYQwwgxgOIn7t3iF6ufFD",
@@ -19848,9 +19860,13 @@
     {
      "value": 5,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 9,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 9.722222222222221,
+   "position_avg": 9.68421052631579,
    "spotify": {
     "track": "spotify:track:3bg2qahpZmsg5wV2EMPXIk",
     "album": "spotify:album:5a450MS1eKGQQAsqgvsZ6J",
@@ -19970,9 +19986,13 @@
     {
      "value": 21,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 22.263157894736842,
+   "position_avg": 21.65,
    "spotify": {
     "track": "spotify:track:5o0osRx8kYJTOqlOSggr9Z",
     "album": "spotify:album:1cVpXZnVWHTDUuY8kW6x8M",
@@ -20096,9 +20116,13 @@
     {
      "value": 8,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 18,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 12.0,
+   "position_avg": 12.3,
    "spotify": {
     "track": "spotify:track:3nHuKdFJZm78CoeBnDcFKe",
     "album": "spotify:album:2VxQFEEnhwiV5LpMuHKViR",
@@ -20874,9 +20898,13 @@
     {
      "value": 7,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 27,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 14.555555555555555,
+   "position_avg": 15.8,
    "spotify": {
     "track": "spotify:track:5X9NwJ1n4nktZfUIyGMcHf",
     "album": "spotify:album:5nIgDHf42VCFVfBY9BG2fr",
@@ -21026,9 +21054,13 @@
     {
      "value": 2,
      "datetime": "2025-04-08T03:15:38+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 10.2,
+   "position_avg": 9.0,
    "spotify": {
     "track": "spotify:track:3SKH53SPQbEnZR4cJPVaz2",
     "album": "spotify:album:2QWd1BsO7J0zLwxhsKl3zh",
@@ -21055,9 +21087,13 @@
     {
      "value": 12,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 22,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 12.75,
+   "position_avg": 14.6,
    "spotify": {
     "track": "spotify:track:0xSjAuPhm9tJXX2nRt2Avv",
     "album": "spotify:album:6WgNtisaBfx6HlMGFDltTK",
@@ -21117,9 +21153,13 @@
     {
      "value": 13,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 13.25,
+   "position_avg": 14.6,
    "spotify": {
     "track": "spotify:track:2zOmS55knKWSgScYPTNmGQ",
     "album": "spotify:album:1fOTqAU8mRMHlmOaHMqsge",
@@ -21217,9 +21257,13 @@
     {
      "value": 24,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 16,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 25.333333333333332,
+   "position_avg": 23.0,
    "spotify": {
     "track": "spotify:track:0pSwhT654HC2knBvjn5f89",
     "album": "spotify:album:2WN1hoD8UtrSHItI9QO5Qy",
@@ -21297,9 +21341,13 @@
     {
      "value": 16,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 16.0,
+   "position_avg": 12.0,
    "spotify": {
     "track": "spotify:track:1musbempyJAw5gfSKZHXP9",
     "album": "spotify:album:706mYHElAsR2MfcehZt2PA",
@@ -21314,9 +21362,13 @@
     {
      "value": 18,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 13,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 18.0,
+   "position_avg": 15.5,
    "spotify": {
     "track": "spotify:track:4TwEdnSiTPDR1vg1QZ5K8W",
     "album": "spotify:album:41GrpCcoPSawyIVDbLRdLW",
@@ -21331,13 +21383,221 @@
     {
      "value": 26,
      "datetime": "2025-04-15T03:18:37+00:00"
+    },
+    {
+     "value": 30,
+     "datetime": "2025-04-22T03:17:54+00:00"
     }
    ],
-   "position_avg": 26.0,
+   "position_avg": 28.0,
    "spotify": {
     "track": "spotify:track:6M5JL2JSOjLIZQa0Q5enm9",
     "album": "spotify:album:3vjWF2fhq3aQd7HMa1ubnX",
     "image": "https://i.scdn.co/image/ab67616d0000b2731aa632a396e94a2970d27cc6"
+   }
+  },
+  "d6f40be6": {
+   "artist": "Myles Smith",
+   "artist_display": "Myles Smith",
+   "title": "Nice to Meet You",
+   "positions": [
+    {
+     "value": 2,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 2.0,
+   "spotify": {
+    "track": "spotify:track:726SEjbF3ToEbYbn43gnxl",
+    "album": "spotify:album:0BNzjDHvi3stIakYKnQoBY",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739ddcb072adff08acd2501a06"
+   }
+  },
+  "10fd0d31": {
+   "artist": "Gracie Abrams",
+   "artist_display": "Gracie Abrams",
+   "title": "That\u2019s So True",
+   "positions": [
+    {
+     "value": 6,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 6.0,
+   "spotify": {
+    "track": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+    "album": "spotify:album:0hBRqPYPXhr1RkTDG3n4Mk",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf"
+   }
+  },
+  "814d094e": {
+   "artist": "Alex Warren",
+   "artist_display": "Alex Warren",
+   "title": "Ordinary",
+   "positions": [
+    {
+     "value": 7,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 7.0,
+   "spotify": {
+    "track": "spotify:track:6qqrTXSdwiJaq8SO0X2lSe",
+    "album": "spotify:album:6xomx5ekO7qHDvDh57rZ5S",
+    "image": "https://i.scdn.co/image/ab67616d0000b273000bd02e24b42b372007a785"
+   }
+  },
+  "d9340c04": {
+   "artist": "Chappell Roan",
+   "artist_display": "Chappell Roan",
+   "title": "Pink Pony Club",
+   "positions": [
+    {
+     "value": 11,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 11.0,
+   "spotify": {
+    "track": "spotify:track:1k2pQc5i348DCHwbn5KTdc",
+    "album": "spotify:album:0EiI8ylL0FmWWpgHVTsZjZ",
+    "image": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6"
+   }
+  },
+  "85410913": {
+   "artist": "The Weeknd",
+   "artist_display": "The Weeknd",
+   "title": "Cry For Me",
+   "positions": [
+    {
+     "value": 12,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 12.0,
+   "spotify": {
+    "track": "spotify:track:3AWDeHLc88XogCaCnZQLVI",
+    "album": "spotify:album:3OxfaVgvTxUTy7276t7SPU",
+    "image": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61"
+   }
+  },
+  "bcd40b62": {
+   "artist": "Mark Ambor",
+   "artist_display": "Mark Ambor",
+   "title": "Belong Together",
+   "positions": [
+    {
+     "value": 14,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 14.0,
+   "spotify": {
+    "track": "spotify:track:5uQ7de4EWjb3rkcFxyEOpu",
+    "album": "spotify:album:3PlCMwyq6nuQYtoYproV1o",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ed71b8008aaa879622f8c3b5"
+   }
+  },
+  "e0a50c06": {
+   "artist": "Lisa,Doja Cat,RAYE",
+   "artist_display": "Lisa & Doja Cat & RAYE",
+   "title": "Born Again",
+   "positions": [
+    {
+     "value": 21,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 21.0,
+   "spotify": {
+    "track": "spotify:track:4CPuDVC8jhhK6lA2DIt8Cf",
+    "album": "spotify:album:5ADTbFCyP8cFAu59i4idiC",
+    "image": "https://i.scdn.co/image/ab67616d0000b273006a58c9d359ba942cb7fc91"
+   }
+  },
+  "98840a36": {
+   "artist": "Myles Smith",
+   "artist_display": "Myles Smith",
+   "title": "Stargazing",
+   "positions": [
+    {
+     "value": 23,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 23.0,
+   "spotify": {
+    "track": "spotify:track:3Vr3zh0r7ALn8VLqCiRR10",
+    "album": "spotify:album:3VNxRarx9HUI5w7DHv0TBj",
+    "image": "https://i.scdn.co/image/ab67616d0000b27381b12e1a0584e8ea7ba2ae4a"
+   }
+  },
+  "ee450c15": {
+   "artist": "Chappell Roan",
+   "artist_display": "Chappell Roan",
+   "title": "Good Luck, Babe!",
+   "positions": [
+    {
+     "value": 24,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 24.0,
+   "spotify": {
+    "track": "spotify:track:0WbMK4wrZ1wFSty9F7FCgu",
+    "album": "spotify:album:1WAjjRMfZjEXtB0lQrAw6Q",
+    "image": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7"
+   }
+  },
+  "d34d0b98": {
+   "artist": "Shaboozey",
+   "artist_display": "Shaboozey",
+   "title": "A Bar Song (Tipsy)",
+   "positions": [
+    {
+     "value": 25,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 25.0,
+   "spotify": {
+    "track": "spotify:track:2FQrifJ1N335Ljm3TjTVVf",
+    "album": "spotify:album:6egBeCLeGITzGSo5VyRjwZ",
+    "image": "https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2"
+   }
+  },
+  "a5620a6e": {
+   "artist": "Cameron Whitcomb",
+   "artist_display": "Cameron Whitcomb",
+   "title": "Medusa",
+   "positions": [
+    {
+     "value": 26,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 26.0,
+   "spotify": {
+    "track": "spotify:track:1B7xiLBhKRBpD5KlnEWtrR",
+    "album": "spotify:album:3e2KRazxHkewQA3WL20fqQ",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ce2c39d340740fa4e030e3c5"
+   }
+  },
+  "600d0f71": {
+   "artist": "Damiano David",
+   "artist_display": "Damiano David",
+   "title": "Born With A Broken Heart",
+   "positions": [
+    {
+     "value": 28,
+     "datetime": "2025-04-22T03:17:54+00:00"
+    }
+   ],
+   "position_avg": 28.0,
+   "spotify": {
+    "track": "spotify:track:2z9FUHRkbkV4BObNzbHsFU",
+    "album": "spotify:album:2QNTqojFg0R17Jn2gj9Yqm",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c105fb55474f224476c23008"
    }
   }
  }
