@@ -1,5 +1,5 @@
 {
- "updated": "2025-12-19T03:30:45+00:00",
+ "updated": "2025-12-20T03:25:23+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -21978,9 +21978,13 @@
     {
      "value": 18,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 17,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 11.565217391304348,
+   "position_avg": 11.791666666666666,
    "spotify": {
     "track": "spotify:track:3x3K1RP3Zfi2qeMR8kyrNO",
     "album": "spotify:album:38PKSUSFXnO4mbUhLC4ELZ",
@@ -22494,9 +22498,13 @@
     {
      "value": 17,
      "datetime": "2025-12-06T03:21:51+00:00"
+    },
+    {
+     "value": 14,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 4.409090909090909,
+   "position_avg": 4.826086956521739,
    "spotify": {
     "track": "spotify:track:6qqrTXSdwiJaq8SO0X2lSe",
     "album": "spotify:album:6xomx5ekO7qHDvDh57rZ5S",
@@ -22984,9 +22992,13 @@
     {
      "value": 20,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 16,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 6.92,
+   "position_avg": 7.269230769230769,
    "spotify": {
     "track": "spotify:track:0GRc3eGTg8HBdWLRGYgqIc",
     "album": "spotify:album:37HwcDtLqY2WXN7NArODvI",
@@ -23706,9 +23718,13 @@
     {
      "value": 22,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 26,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 16.352941176470587,
+   "position_avg": 16.88888888888889,
    "spotify": {
     "track": "spotify:track:78nx0HDJIFD5xDq2L5420Z",
     "album": "spotify:album:5awEnPUdqgYwqsc33hPk52",
@@ -23917,9 +23933,13 @@
     {
      "value": 8,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 12,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 7.6,
+   "position_avg": 7.875,
    "spotify": {
     "track": "spotify:track:4Q0qVhFQa7j6jRKzo3HDmP",
     "album": "spotify:album:1ZrWlhMUoyMKsoQ1tvRR2t",
@@ -24075,9 +24095,13 @@
     {
      "value": 24,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 19,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 14.705882352941176,
+   "position_avg": 14.944444444444445,
    "spotify": {
     "track": "spotify:track:42UBPzRMh5yyz0EDPr6fr1",
     "album": "spotify:album:3wRHV5fOeUcM5hvYzWZsic",
@@ -24391,9 +24415,13 @@
     {
      "value": 19,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 14.0,
+   "position_avg": 14.428571428571429,
    "spotify": {
     "track": "spotify:track:5BZsQlgw21vDOAjoqkNgKb",
     "album": "spotify:album:5vD5M5VW62LL78Ko8x0CVZ",
@@ -24468,9 +24496,13 @@
     {
      "value": 21,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 22,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 15.125,
+   "position_avg": 15.529411764705882,
    "spotify": {
     "track": "spotify:track:5vXPLxljVKyHDHuv3kIuKV",
     "album": "spotify:album:5d12unL3OeoaDLUAgdVEhA",
@@ -24804,9 +24836,13 @@
     {
      "value": 2,
      "datetime": "2025-12-06T03:21:51+00:00"
+    },
+    {
+     "value": 3,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 2.6666666666666665,
+   "position_avg": 2.7142857142857144,
    "spotify": {
     "track": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
     "album": "spotify:album:14JkAa6IiFaOh5s0nMyMU9",
@@ -24858,9 +24894,13 @@
     {
      "value": 21,
      "datetime": "2025-10-18T03:12:30+00:00"
+    },
+    {
+     "value": 18,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 25.25,
+   "position_avg": 23.8,
    "spotify": {
     "track": "spotify:track:37UCSVSqiPGdR1DijOFyYY",
     "album": "spotify:album:014U2yqVgeCNqykPGzgyki",
@@ -24969,9 +25009,13 @@
     {
      "value": 4,
      "datetime": "2025-12-06T03:21:51+00:00"
+    },
+    {
+     "value": 5,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 6.857142857142857,
+   "position_avg": 6.625,
    "spotify": {
     "track": "spotify:track:3NFs3XUduzBfvc5Bx1gmzh",
     "album": "spotify:album:1KdrtZn2AmuQPHKIr3h4e6",
@@ -25035,9 +25079,13 @@
     {
      "value": 10,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 15,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 8.625,
+   "position_avg": 9.333333333333334,
    "spotify": {
     "track": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
     "album": "spotify:album:1aqg30bNvLSWgShZgX4oop",
@@ -25154,9 +25202,13 @@
     {
      "value": 18,
      "datetime": "2025-11-15T03:20:24+00:00"
+    },
+    {
+     "value": 25,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 19.0,
+   "position_avg": 20.0,
    "spotify": {
     "track": "spotify:track:7DFBKsaJieWr5DgWezzlOO",
     "album": "spotify:album:7Cve4BzHjBQx7JdXURxpaN",
@@ -25265,9 +25317,13 @@
     {
      "value": 6,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 4,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 10.285714285714286,
+   "position_avg": 9.5,
    "spotify": {
     "track": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
     "album": "spotify:album:01sqwTOTrN9gaYQc1rr6Zw",
@@ -25302,9 +25358,13 @@
     {
      "value": 5,
      "datetime": "2025-12-06T03:21:51+00:00"
+    },
+    {
+     "value": 6,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 9.333333333333334,
+   "position_avg": 8.857142857142858,
    "spotify": {
     "track": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL",
     "album": "spotify:album:6rpin9IVOuBEWBYnrA9hft",
@@ -25339,9 +25399,13 @@
     {
      "value": 3,
      "datetime": "2025-12-06T03:21:51+00:00"
+    },
+    {
+     "value": 2,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 10.166666666666666,
+   "position_avg": 9.0,
    "spotify": {
     "track": "spotify:track:3Dy4xsff7c0fRaTJpA54yd",
     "album": "spotify:album:39FHrt5YWp4HY7dHDn8Owz",
@@ -25380,9 +25444,13 @@
     {
      "value": 16,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 19.0,
+   "position_avg": 17.625,
    "spotify": {
     "track": "spotify:track:6vqyk3mbDBv3npTpctYoka",
     "album": "spotify:album:20dY0uZi9SzfrcWYfiWGqH",
@@ -25405,9 +25473,13 @@
     {
      "value": 14,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 13,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 18.666666666666668,
+   "position_avg": 17.25,
    "spotify": {
     "track": "spotify:track:6MrLkXsMmHaYt680fhJUAq",
     "album": "spotify:album:2TrTb21wiXbwQohvN1UfFV",
@@ -25459,9 +25531,13 @@
     {
      "value": 15,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 14.333333333333334,
+   "position_avg": 13.714285714285714,
    "spotify": {
     "track": "spotify:track:4GOYVxQPaKqen2QcoLtrlc",
     "album": "spotify:album:70hrdDAd7dbcj0ob6GCAnA",
@@ -25484,9 +25560,13 @@
     {
      "value": 13,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 29,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 21.333333333333332,
+   "position_avg": 23.25,
    "spotify": {
     "track": "spotify:track:79bteG47Ms3rUa9TTxhTzF",
     "album": "spotify:album:66uFqZHRtk56y6wyj0EFst",
@@ -25530,9 +25610,13 @@
     {
      "value": 12,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 23,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 15.0,
+   "position_avg": 17.666666666666668,
    "spotify": {
     "track": "spotify:track:04a44cx2PJthIbN2aLMXhl",
     "album": "spotify:album:1ks1k7zln4TyBjn1CF3vCz",
@@ -25551,9 +25635,13 @@
     {
      "value": 27,
      "datetime": "2025-12-13T03:25:28+00:00"
+    },
+    {
+     "value": 24,
+     "datetime": "2025-12-20T03:25:22+00:00"
     }
    ],
-   "position_avg": 27.5,
+   "position_avg": 26.333333333333332,
    "spotify": {
     "track": "spotify:track:2LVLfi56877BcKEPkrUuYZ",
     "album": "spotify:album:78tVFMGbPWdm1S86JyC017",
@@ -25592,6 +25680,57 @@
     "track": "spotify:track:57byShO7NhqiVlRLvmbPyM",
     "album": "spotify:album:0OmxbEqS8d7KT9lEOVAHrK",
     "image": "https://i.scdn.co/image/ab67616d0000b27384ccbe32d5d2e2bb518d5f40"
+   }
+  },
+  "85be0963": {
+   "artist": "Taylor Swift",
+   "artist_display": "Taylor Swift",
+   "title": "Opalite",
+   "positions": [
+    {
+     "value": 21,
+     "datetime": "2025-12-20T03:25:22+00:00"
+    }
+   ],
+   "position_avg": 21.0,
+   "spotify": {
+    "track": "spotify:track:3yWuTOYDztXjZxdE2cIRUa",
+    "album": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902"
+   }
+  },
+  "b03a0ae4": {
+   "artist": "Disiz,Theodora",
+   "artist_display": "Disiz & Theodora",
+   "title": "Melodrama",
+   "positions": [
+    {
+     "value": 27,
+     "datetime": "2025-12-20T03:25:22+00:00"
+    }
+   ],
+   "position_avg": 27.0,
+   "spotify": {
+    "track": "spotify:track:5Y8C6KjzBRKvcT3Aln1Bc4",
+    "album": "spotify:album:5wFsZ4iXAggxIVNZRJogvr",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ee5f01b81fd02d6b2dbd70c5"
+   }
+  },
+  "323f17e7": {
+   "artist": "Shakira,Ed Sheeran,Beele",
+   "artist_display": "Shakira & Ed Sheeran & Beele",
+   "title": "Hips Don't Lie (Anniversary Version)",
+   "positions": [
+    {
+     "value": 28,
+     "datetime": "2025-12-20T03:25:22+00:00"
+    }
+   ],
+   "position_avg": 28.0,
+   "spotify": {
+    "track": "spotify:track:2oaGtVSJwivQkslaiDXOTr",
+    "album": "spotify:album:3MPdhBdbgE1pNvIANARIfL",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d5c717a748b40b026290622f"
    }
   }
  }
