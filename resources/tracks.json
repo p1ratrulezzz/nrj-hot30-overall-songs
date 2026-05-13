@@ -1,5 +1,5 @@
 {
- "updated": "2026-05-12T04:16:38+00:00",
+ "updated": "2026-05-13T04:20:31+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -28114,6 +28114,23 @@
     "track": "spotify:track:3EpQUpVAaQWZX9oLCoJEfo",
     "album": "spotify:album:6E2VmkOih43z49pVr5WNQK",
     "image": "https://i.scdn.co/image/ab67616d0000b273a07282c8fea558bad7273ab3"
+   }
+  },
+  "21790dd3": {
+   "artist": "Tame Impala",
+   "artist_display": "Tame Impala",
+   "title": "Dracula (JENNIE Remix)",
+   "positions": [
+    {
+     "value": 13,
+     "datetime": "2026-05-13T04:20:30+00:00"
+    }
+   ],
+   "position_avg": 13.0,
+   "spotify": {
+    "track": "spotify:track:5yvVYFDUpbnjcnRBgjwTzM",
+    "album": "spotify:album:6KFq3hJB6JnNvDbEHRvPoK",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c7c031ce9d06b131f8563676"
    }
   }
  }
