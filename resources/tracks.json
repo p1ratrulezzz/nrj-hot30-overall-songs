@@ -1,5 +1,5 @@
 {
- "updated": "2026-05-30T04:22:35+00:00",
+ "updated": "2026-05-31T04:31:08+00:00",
  "tracks": {
   "65880833": {
    "artist": "MINELLI",
@@ -25072,9 +25072,13 @@
     {
      "value": 30,
      "datetime": "2026-05-11T04:26:16+00:00"
+    },
+    {
+     "value": 29,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 8.523809523809524,
+   "position_avg": 9.454545454545455,
    "spotify": {
     "track": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
     "album": "spotify:album:14JkAa6IiFaOh5s0nMyMU9",
@@ -25545,9 +25549,13 @@
     {
      "value": 23,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 19,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 10.75,
+   "position_avg": 11.142857142857142,
    "spotify": {
     "track": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
     "album": "spotify:album:0Bv6OJO0L5gcf20DMww54a",
@@ -25805,9 +25813,13 @@
     {
      "value": 17,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 20,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 8.545454545454545,
+   "position_avg": 9.043478260869565,
    "spotify": {
     "track": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
     "album": "spotify:album:01sqwTOTrN9gaYQc1rr6Zw",
@@ -26442,9 +26454,13 @@
     {
      "value": 6,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 8,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 8.333333333333334,
+   "position_avg": 8.3125,
    "spotify": {
     "track": "spotify:track:3yWuTOYDztXjZxdE2cIRUa",
     "album": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I",
@@ -26619,9 +26635,13 @@
     {
      "value": 4,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 6,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 4.0,
+   "position_avg": 4.142857142857143,
    "spotify": {
     "track": "spotify:track:12bYYQaLqHliSXvRIYlq8G",
     "album": "spotify:album:2YOfpbW6kCd2XHW2Ln2Uih",
@@ -27024,9 +27044,13 @@
     {
      "value": 20,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 15,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 11.733333333333333,
+   "position_avg": 11.9375,
    "spotify": {
     "track": "spotify:track:3qhlB30KknSejmIvZZLjOD",
     "album": "spotify:album:4JDXBZdRPId4devseaAOKH",
@@ -27389,9 +27413,13 @@
     {
      "value": 9,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 13,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 10.785714285714286,
+   "position_avg": 10.933333333333334,
    "spotify": {
     "track": "spotify:track:6sGIMrtIzQjdzNndVxe397",
     "album": "spotify:album:0l8zYqoUeBYg47Gmevq9HZ",
@@ -27639,9 +27667,13 @@
     {
      "value": 18,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 25,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 17.4,
+   "position_avg": 18.09090909090909,
    "spotify": {
     "track": "spotify:track:1gscp1wI1CIZvrPw4vl4Kv",
     "album": "spotify:album:2GH5soHxXYQdpzfwowtvYH",
@@ -27787,9 +27819,13 @@
     {
      "value": 28,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 24,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 23.8,
+   "position_avg": 23.833333333333332,
    "spotify": {
     "track": "spotify:track:4IrUBK4fJp0gPleQXuCymu",
     "album": "spotify:album:52RD07eM9yZCsE5rZG3jf0",
@@ -28013,9 +28049,13 @@
     {
      "value": 21,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 26,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 24.142857142857142,
+   "position_avg": 24.375,
    "spotify": {
     "track": "spotify:track:15tkKpcwBE3XJhaBdLPBKJ",
     "album": "spotify:album:3sEuskgtxTNNvdJAsMk9kG",
@@ -28096,9 +28136,13 @@
     {
      "value": 13,
      "datetime": "2026-05-17T04:25:03+00:00"
+    },
+    {
+     "value": 14,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 21.2,
+   "position_avg": 20.0,
    "spotify": {
     "track": "spotify:track:7gtG45ieyQzKtNKobfLd49",
     "album": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR",
@@ -28129,9 +28173,13 @@
     {
      "value": 8,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 10,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 17.0,
+   "position_avg": 15.833333333333334,
    "spotify": {
     "track": "spotify:track:2ejzE6eD1mP1JFk4qrBxbc",
     "album": "spotify:album:2Xy0XjWMA3XQH3Wuh3dJ9y",
@@ -28225,9 +28273,13 @@
     {
      "value": 7,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 18,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 12.333333333333334,
+   "position_avg": 13.75,
    "spotify": {
     "track": "spotify:track:6kw5fiFSxFTUUmn6ynSwrD",
     "album": "spotify:album:5yvxgPwdYkBvvblqTmkGKU",
@@ -28271,9 +28323,13 @@
     {
      "value": 14,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 17,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 21.0,
+   "position_avg": 20.0,
    "spotify": {
     "track": "spotify:track:3EpQUpVAaQWZX9oLCoJEfo",
     "album": "spotify:album:6E2VmkOih43z49pVr5WNQK",
@@ -28317,9 +28373,13 @@
     {
      "value": 15,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 9,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 15.5,
+   "position_avg": 13.333333333333334,
    "spotify": {
     "track": "spotify:track:4xpgAJsYNK9oWbFHm40yyK",
     "album": "spotify:album:59WUvoIGrL6FrhwhUYgNeM",
@@ -28334,9 +28394,13 @@
     {
      "value": 25,
      "datetime": "2026-05-17T04:25:03+00:00"
+    },
+    {
+     "value": 7,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 25.0,
+   "position_avg": 16.0,
    "spotify": {
     "track": "spotify:track:6gkbtMtioHgtyGjrMel6ei",
     "album": "spotify:album:4OMvPbXaYlbUm6TnwyXGct",
@@ -28355,9 +28419,13 @@
     {
      "value": 19,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 23,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 22.5,
+   "position_avg": 22.666666666666668,
    "spotify": {
     "track": "spotify:track:5ObyGDxNWH0Uuuk3NvC5r8",
     "album": "spotify:album:16OQglx2ocK2F03OgmYIxh",
@@ -28372,9 +28440,13 @@
     {
      "value": 10,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 4,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 10.0,
+   "position_avg": 7.0,
    "spotify": {
     "track": "spotify:track:2g5kPQh1EexoG8kGZH2nOZ",
     "album": "spotify:album:6pSMDQxVmzO16b4feWczz1",
@@ -28389,9 +28461,13 @@
     {
      "value": 24,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 21,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 24.0,
+   "position_avg": 22.5,
    "spotify": {
     "track": "spotify:track:6CAiFxfsp5qIOYs5m7kSZX",
     "album": "spotify:album:1Vs2Q4ghAOsjUiTQoGDBAn",
@@ -28406,9 +28482,13 @@
     {
      "value": 29,
      "datetime": "2026-05-26T04:26:25+00:00"
+    },
+    {
+     "value": 28,
+     "datetime": "2026-05-31T04:31:07+00:00"
     }
    ],
-   "position_avg": 29.0,
+   "position_avg": 28.5,
    "spotify": {
     "track": "spotify:track:190jyVPHYjAqEaOGmMzdyk",
     "album": "spotify:album:70f70xLCpH7wHaVvB2oZT9",
@@ -28430,6 +28510,40 @@
     "track": "spotify:track:6mDWXBwjpw7SnYeeoMk34w",
     "album": "spotify:album:0wSOFksgmgajOELXdNxW1D",
     "image": "https://i.scdn.co/image/ab67616d0000b27327d7fde41536d6849119f6b8"
+   }
+  },
+  "3eb00e20": {
+   "artist": "Bob Sinclar,Kiesza",
+   "artist_display": "Bob Sinclar & Kiesza",
+   "title": "I Can\u2019t Wait",
+   "positions": [
+    {
+     "value": 16,
+     "datetime": "2026-05-31T04:31:07+00:00"
+    }
+   ],
+   "position_avg": 16.0,
+   "spotify": {
+    "track": "spotify:track:3Udajvl5tdJY1RV9NPmTxe",
+    "album": "spotify:album:5BxB49zq4P3MiCEB4HokzF",
+    "image": "https://i.scdn.co/image/ab67616d0000b27330a55b575f6c887e1a9ff39b"
+   }
+  },
+  "ed390ce8": {
+   "artist": "Taylor Swift",
+   "artist_display": "Taylor Swift",
+   "title": "Elizabeth Taylor",
+   "positions": [
+    {
+     "value": 27,
+     "datetime": "2026-05-31T04:31:07+00:00"
+    }
+   ],
+   "position_avg": 27.0,
+   "spotify": {
+    "track": "spotify:track:1jgTiNob5cVyXeJ3WgX5bL",
+    "album": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902"
    }
   }
  }
