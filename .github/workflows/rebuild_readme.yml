@@ -23,7 +23,7 @@ jobs:
     # Runs a single command using the runners shell
     - uses: actions/checkout@v2
     - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v7
       with:
         python-version: 3.9.25
     - name: Install dependencies
